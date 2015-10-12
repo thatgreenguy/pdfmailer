@@ -10,7 +10,8 @@
 var oracledb = require('oracledb'),
   audit = require( './audit.js' ),
   log = require( './logger.js' ),
-  credentials = { user: process.env.DB_USER, password: process.env.DB_PWD, connectString: process.env.DB_NAME};
+  credentials = { user: process.env.DB_USER, password: process.env.DB_PWD, connectString: process.env.DB_NAME},
+  hostname = process.env.HOSTNAME;
 
 
 // Functions -
@@ -23,7 +24,7 @@ var oracledb = require('oracledb'),
 // Insert lock file entry for given PDF if returns okay then caller has exclusive use of PDF file.
 // Expect valid JDE Job Control record to be passed along with callback function to process PDF if lock successful
 
-exports.gainExclusivity = function( odbCn, record, hostname, processLockedPdfFile ) {
+exports.gainExclusivity = function( odbCn, record, processLockedPdfFile ) {
 
   var jcfndfuf2 = record[0],
     jcprocessid = record[3],

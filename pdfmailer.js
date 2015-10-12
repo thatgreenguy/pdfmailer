@@ -111,19 +111,8 @@ function performPolledProcess() {
 // Handles scheduling of the next run of the frequently polled process 
 function scheduleNextPolledProcess() {
 
-  var ts,
-    ats;
-
-  // Check done so adjust Check Date and Time for next check - only interested in new PDF files now
-  ts = audit.createTimestamp();
-  ats = audit.adjustTimestampByMinutes( ts );
-
-  // Set check Date and Time for next scheduled process
-  checkDate = ats.jdeDate;
-  checkTime = ats.jdeTime;
-
   log.debug( 'Will Check again in : ' + pollInterval + ' milliseconds, using Date: ' + checkDate + ' time: ' + checkTime );
-  setTimeout( performPolledProcess, pollInterval );
+  //setTimeout( performPolledProcess, pollInterval );
 
 }
 
@@ -139,8 +128,7 @@ function performPostRemoteMountChecks( err, data ) {
   } else {
 
     // Remote mounts okay so go ahead and process, checking for new Pdf's etc
-    pdfChecker.queryJdeJobControl( 
-      dbCn, checkDate, checkTime, pollInterval, hostname, lastPdf, scheduleNextPolledProcess );
+    pdfChecker.queryJdePdfProcessQueue( dbCn, '100', '999', scheduleNextPolledProcess );
   }
 
 }
@@ -171,7 +159,7 @@ function performPostEstablishRemoteMounts( err, data ) {
 
     // Remote mounts okay so go ahead and process, checking for new Pdf's etc
     log.verbose( 'Remote mounts to Jde re-established - will continue normally')
-    pdfChecker.performJdePdfProcessing( dbCn, dbCredentials, pollInterval, hostname, lastPdf, scheduleNextPolledProcess );
+    pdfChecker.queryJdePdfProcessQueue( dbCn, '100', '999', scheduleNextPolledProcess );
   }
 
 }
