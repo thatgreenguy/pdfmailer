@@ -37,11 +37,20 @@ var oracledb = require( 'oracledb' ),
 // function removeLock( record, hostname )
 // function oracleResultsetClose( dbCn, rs )
 // function oracledbCnRelease( dbCn )
-
-
 // Query the JDE Job Control Master file to fetch all PDF files generated since last audit entry
 // Only select PDF jobs that are registered for emailing
 module.exports.queryJdePdfProcessQueue = function( dbCn, status, nextStatus, scheduleNextPolledProcess ) {
+
+  log.verbose( ' Check for mails to send' );
+
+
+}
+
+// Query the JDE Job Control Master file to fetch all PDF files generated since last audit entry
+// Only select PDF jobs that are registered for emailing
+module.exports.OLDqueryJdePdfProcessQueue = function( dbCn, status, nextStatus, scheduleNextPolledProcess ) {
+
+
 
   var auditTimestamp,
   query,

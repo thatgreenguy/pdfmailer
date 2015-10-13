@@ -1,0 +1,1683 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< 
+/Type /Catalog 
+/Pages 2 0 R 
+>> 
+endobj
+2 0 obj
+<< 
+/Type /Pages 
+/Kids [ 15 0 R 18 0 R ] 
+/Count 2 
+>> 
+endobj
+3 0 obj
+<< 
+/ModDate (D:20150909100107)
+/DLI (2.2.55)
+/OneWorldRelease (E812)
+/Role (EHITDV01)
+/Platform (aix)
+/DLI_Copyright (Datalogics Interface \(DLI\) Copyright \(C\) 1998-2003 Datalogics, Inc. \
+-- www.datalogics.com)
+/Name (R5542565)
+/Version (FRZS5M10A)
+/Author (10000403)
+/CreationDate (2015/9/9   10:01:06)
+/OWEnvironment (JUAT812)
+/Machine (JDAT01)
+/Host (JDAT01)
+/Printer (jdeone)
+/PDL#20Program (*JDE PCL)
+/DecimalSepChar (.)
+/ThousandsSepChar (,)
+/Language (E )
+/DateFormat (EOA)
+/NumberOfCopies (1)
+/DateSepChar (-)
+/Title (DLINK Print Invoices)
+/Subject (DLINK Print Invoices)
+/Producer (J.D.Edwards OneWorld \(E812\))
+/Creator (D-Link Europe Group of Company)
+/Keywords (R5542565, FRZS5M10A, JDAT01, JUAT812, jdeone)
+/JobNumber (182678)
+/FileName (/jdedwards/e812/PrintQueue/R5542565_FRZS5M10A_182678_PDF)
+/SystemInfo (fromOS 3 fromCP 1252 toOS 1 toCP 1252)
+/PageSize (VertSize 16837 HorzSize 11905, pageOrient 1)
+/PageInfo (lpi 205, cpi 38 DCFontSz 70)
+/Sect_0 (SN=Page Footer;TP=PF;BV=None;SI=22;PI=0)
+/Ctrl_0_0 (CN=Z_Spacer_Line_Over; CI=2; SI=22; TP=RV; DT=S; AL=RptVarObj; FS=145)
+/Ctrl_1_0 (CN=Z_PFT_FooterTextLine1; CI=8; SI=22; TP=RV; DT=S; AL=RptVarObj; FS=180\
+)
+/Ctrl_2_0 (CN=Z_PFT_FooterTextLine2; CI=4; SI=22; TP=RV; DT=S; AL=RptVarObj; FS=180\
+)
+/Ctrl_3_0 (CN=Z_PFT_FooterTextLine3; CI=5; SI=22; TP=RV; DT=S; AL=RptVarObj; FS=180\
+)
+/Ctrl_4_0 (CN=Z_PFT_FooterTextLine4; CI=9; SI=22; TP=RV; DT=S; AL=RptVarObj; FS=180\
+)
+/Ctrl_5_0 (CN=Z_Spacer_Line_Under; CI=6; SI=22; TP=RV; DT=S; AL=RptVarObj; FS=145)
+/Sect_1 (SN=Detail Line 1 Section;TP=GRP|CD;BV=V42565A;SI=2;PI=0)
+/Ctrl_0_1 (CN=; CI=146; SI=2; TP=RV; DT=N; AL=IWDOC; FS=8)
+/Ctrl_1_1 (CN=; CI=145; SI=2; TP=RC; DT=S; AL=IWDOC; FS=15)
+/Ctrl_2_1 (CN=; CI=69; SI=2; TP=RV; DT=N; AL=IWSTAM; FS=15)
+/Ctrl_3_1 (CN=; CI=71; SI=2; TP=RV; DT=N; AL=IWADSC; FS=15)
+/Ctrl_4_1 (CN=Zero Tax Net Amount WF; CI=73; SI=2; TP=RV; DT=N; AL=MathNumeric04; F\
+S=15)
+/Ctrl_5_1 (CN=UOM-Unit of Measure as Input; CI=117; SI=2; TP=RV; DT=S; AL=UnitOfMea\
+sureAsInput; FS=2)
+/Ctrl_6_1 (CN=; CI=31; SI=2; TP=RV; DT=N; AL=IWAEXP; FS=15)
+/Ctrl_7_1 (CN=Taxable Flag; CI=33; SI=2; TP=RV; DT=S; AL=EverestEventPoint01; FS=1)
+/Ctrl_8_1 (CN=SOQS-Quantity Shipped; CI=120; SI=2; TP=RV; DT=N; AL=UnitsQuantityShi\
+pped; FS=15)
+/Ctrl_9_1 (CN=S; CI=25; SI=2; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_10_1 (CN=Net Price; CI=142; SI=2; TP=RC; DT=S; AL=RptConstObj; FS=9)
+/Ctrl_11_1 (CN=Extended Cost; CI=75; SI=2; TP=RV; DT=N; AL=AmountAa1; FS=15)
+/Ctrl_12_1 (CN=Percent; CI=77; SI=2; TP=RV; DT=N; AL=MathNumeric09; FS=5)
+/Ctrl_13_1 (CN=DSC2-Description\(wf\); CI=89; SI=2; TP=RV; DT=S; AL=DescriptionLine2\
+; FS=30)
+/Ctrl_14_1 (CN=; CI=148; SI=2; TP=RV; DT=N; AL=AmtPricePerUnit2; FS=15)
+/Ctrl_15_1 (CN=LND2-Unknown Item Format\(wf\); CI=95; SI=2; TP=RV; DT=S; AL=Descript\
+LineTypeLine; FS=26)
+/Ctrl_16_1 (CN=Line Number \(wf\); CI=92; SI=2; TP=RV; DT=N; AL=LineNumberXREF; FS=6\
+)
+/Ctrl_17_1 (CN=Requested Date; CI=45; SI=2; TP=RV; DT=D; AL=Date01; FS=6)
+/Ctrl_18_1 (CN=; CI=47; SI=2; TP=RV; DT=S; AL=IWDSC2; FS=30)
+/Ctrl_19_1 (CN=Per; CI=52; SI=2; TP=RC; DT=S; AL=RptConstObj; FS=3)
+/Ctrl_20_1 (CN=Pricing Unit Of Measure; CI=56; SI=2; TP=RV; DT=S; AL=VideoConstant02\
+A; FS=2)
+/Ctrl_21_1 (CN=Backorder B Identifier; CI=49; SI=2; TP=RV; DT=S; AL=EverestEventPoin\
+t02; FS=1)
+/Ctrl_22_1 (CN=SOBK-Quantity Backordered; CI=123; SI=2; TP=RV; DT=N; AL=UnitsQuanBac\
+korHeld; FS=15)
+/Ctrl_23_1 (CN=Cancelled C Identifier; CI=61; SI=2; TP=RV; DT=S; AL=EverestEventPoin\
+t03; FS=1)
+/Ctrl_24_1 (CN=; CI=138; SI=2; TP=RC; DT=S; AL=IWMCU; FS=13)
+/Ctrl_25_1 (CN=SOCN-Quantity Canceled; CI=126; SI=2; TP=RV; DT=N; AL=UnitsQuantityCa\
+nceled; FS=15)
+/Ctrl_26_1 (CN=; CI=162; SI=2; TP=RC; DT=S; AL=ShipmentNumber; FS=15)
+/Ctrl_27_1 (CN=Business Unit; CI=141; SI=2; TP=RV; DT=S; AL=CostCenter; FS=12)
+/Ctrl_28_1 (CN=; CI=163; SI=2; TP=RV; DT=N; AL=ShipmentNumber; FS=8)
+/Ctrl_29_1 (CN=; CI=155; SI=2; TP=RV; DT=N; AL=AsIfExtendedPrice; FS=15)
+/Ctrl_30_1 (CN=; CI=161; SI=2; TP=RV; DT=N; AL=AsIfAmount-Tax; FS=15)
+/Ctrl_31_1 (CN=Secondary Ship; CI=168; SI=2; TP=RC; DT=S; AL=RptConstObj; FS=14)
+/Ctrl_32_1 (CN=Secondary Ship; CI=167; SI=2; TP=RV; DT=N; AL=UnitsSecondaryQtyOr; FS\
+=15)
+/Ctrl_33_1 (CN=; CI=165; SI=2; TP=RV; DT=S; AL=UnitOfMeasureSecondary; FS=2)
+/Ctrl_34_1 (CN=; CI=217; SI=2; TP=RV; DT=S; AL=ProdSeqJobNo; FS=15)
+/Ctrl_35_1 (CN=Job Number; CI=216; SI=2; TP=RC; DT=S; AL=ProdSeqJobNo; FS=10)
+/Ctrl_36_1 (CN=Customer Item Number; CI=205; SI=2; TP=RC; DT=S; AL=RptConstObj; FS=2\
+0)
+/Ctrl_37_1 (CN=Revision Level; CI=203; SI=2; TP=RC; DT=S; AL=ItemRevLevelCustomerSup\
+plier; FS=14)
+/Ctrl_38_1 (CN=Sequence Number; CI=218; SI=2; TP=RC; DT=S; AL=JobSequence; FS=15)
+/Ctrl_39_1 (CN=; CI=219; SI=2; TP=RV; DT=S; AL=JobSequence; FS=15)
+/Ctrl_40_1 (CN=; CI=59; SI=2; TP=RV; DT=S; AL=IWCITM; FS=25)
+/Ctrl_41_1 (CN=Customer Supplier Item Revisio; CI=204; SI=2; TP=RV; DT=S; AL=ItemRev\
+LevelCustomerSupplier; FS=20)
+/Ctrl_42_1 (CN=; CI=221; SI=2; TP=RV; DT=S; AL=CardNumber; FS=4)
+/Ctrl_43_1 (CN=LNID: Line Number \(Lot/Serial\); CI=151; SI=2; TP=RV; DT=N; AL=LineN\
+umber; FS=6)
+/Ctrl_44_1 (CN=Lot/Serial Number for Line; CI=149; SI=2; TP=RC; DT=S; AL=RptConstObj\
+; FS=26)
+/Ctrl_45_1 (CN=; CI=220; SI=2; TP=RC; DT=S; AL=CardNumber; FS=11)
+/Ctrl_46_1 (CN=LOTN: Lot/Serial Number; CI=153; SI=2; TP=RV; DT=S; AL=Lot; FS=30)
+/Ctrl_47_1 (CN=; CI=18; SI=2; TP=RV; DT=N; AL=IWLNID; FS=6)
+/Ctrl_48_1 (CN=; CI=131; SI=2; TP=RV; DT=S; AL=IWPTC; FS=3)
+/Ctrl_49_1 (CN=; CI=51; SI=2; TP=RV; DT=N; AL=IWSOBK; FS=15)
+/Ctrl_50_1 (CN=; CI=27; SI=2; TP=RV; DT=N; AL=IWSOQS; FS=15)
+/Ctrl_51_1 (CN=; CI=24; SI=2; TP=RV; DT=S; AL=IWUOM; FS=2)
+/Ctrl_52_1 (CN=; CI=20; SI=2; TP=RV; DT=S; AL=IWDSC1; FS=30)
+/Ctrl_53_1 (CN=; CI=63; SI=2; TP=RV; DT=N; AL=IWSOCN; FS=15)
+/Ctrl_54_1 (CN=; CI=196; SI=2; TP=RV; DT=S; AL=IWODCT; FS=2)
+/Ctrl_55_1 (CN=; CI=194; SI=2; TP=RV; DT=N; AL=IWODOC; FS=8)
+/Ctrl_56_1 (CN=Original Invoice Number/Type; CI=193; SI=2; TP=RC; DT=S; AL=IWODOC; F\
+S=28)
+/Ctrl_57_1 (CN=Original Order Number/Type; CI=189; SI=2; TP=RC; DT=S; AL=IWOORN; FS=\
+26)
+/Ctrl_58_1 (CN=; CI=192; SI=2; TP=RV; DT=S; AL=IWOCTO; FS=2)
+/Ctrl_59_1 (CN=; CI=190; SI=2; TP=RV; DT=S; AL=IWOORN; FS=8)
+/Ctrl_60_1 (CN=; CI=187; SI=2; TP=RC; DT=S; AL=IWRCD; FS=11)
+/Ctrl_61_1 (CN=; CI=188; SI=2; TP=RV; DT=S; AL=IWRCD; FS=3)
+/Ctrl_62_1 (CN=; CI=65; SI=2; TP=RV; DT=S; AL=IWKCO; FS=5)
+/Ctrl_63_1 (CN=OSEQ-Last Override Seq No\(wf\); CI=99; SI=2; TP=RV; DT=N; AL=Sequenc\
+eNumber; FS=4)
+/Ctrl_64_1 (CN=KCOO:Order Company\(wf\); CI=129; SI=2; TP=RV; DT=S; AL=IWKCOO; FS=5)
+/Ctrl_65_1 (CN=Based on Value - Detail 1 Sect; CI=202; SI=2; TP=RV; DT=N; AL=BasedOn\
+Value; FS=15)
+/Ctrl_66_1 (CN=Factor Value Sign - Detail 1 S; CI=186; SI=2; TP=RV; DT=S; AL=VideoCo\
+nstant10A; FS=1)
+/Ctrl_67_1 (CN=; CI=201; SI=2; TP=RC; DT=S; AL=BasedOnValue; FS=14)
+/Ctrl_68_1 (CN=; CI=199; SI=2; TP=RC; DT=S; AL=FactorValue; FS=12)
+/Ctrl_69_1 (CN=Factor Value - Detail 1 Sectio; CI=200; SI=2; TP=RV; DT=N; AL=FactorV\
+alue; FS=15)
+/Ctrl_70_1 (CN=; CI=207; SI=2; TP=RV; DT=S; AL=AdjustmentReference; FS=15)
+/Ctrl_71_1 (CN=; CI=206; SI=2; TP=RC; DT=S; AL=AdjustmentReference; FS=16)
+/Ctrl_72_1 (CN=Tax Item Number WF; CI=67; SI=2; TP=RV; DT=N; AL=AERE; FS=8)
+/Ctrl_73_1 (CN=* Not eligible for Payment Ter; CI=57; SI=2; TP=RC; DT=S; AL=RptConst\
+Obj; FS=43)
+/Ctrl_74_1 (CN=MSG - Detail Message; CI=135; SI=2; TP=RV; DT=S; AL=RptVarObj; FS=145\
+)
+/Ctrl_75_1 (CN=Assoc Text - Detail; CI=136; SI=2; TP=RV; DT=S; AL=RptVarObj; FS=145)
+/Ctrl_76_1 (CN=MSG - Item Notes; CI=137; SI=2; TP=RV; DT=S; AL=RptVarObj; FS=145)
+/Ctrl_77_1 (CN=ConfigGenericText; CI=208; SI=2; TP=RV; DT=S; AL=RptVarObj; FS=145)
+/Ctrl_78_1 (CN=EV11-New SO Dtl Flag\(wf\); CI=114; SI=2; TP=RV; DT=S; AL=EverestEven\
+tPoint11; FS=1)
+/Ctrl_79_1 (CN=; CI=22; SI=2; TP=RV; DT=S; AL=IWUITM; FS=26)
+/Ctrl_80_1 (CN=GENLNG-idF40UI74hRequest\(wf\); CI=102; SI=2; TP=RV; DT=N; AL=Generic\
+Long; FS=11)
+/Ctrl_81_1 (CN=ACNT-Adjustment Control Code\(w; CI=105; SI=2; TP=RV; DT=S; AL=Adjust\
+mentControlCode; FS=1)
+/Ctrl_82_1 (CN=FPRC-Foreign Adj Price\(wf\); CI=111; SI=2; TP=RV; DT=N; AL=AmountLis\
+tPriceForeign; FS=15)
+/Ctrl_83_1 (CN=LPRC-Domestic Adj Price\(wf\); CI=108; SI=2; TP=RV; DT=N; AL=AmtListP\
+ricePerUnit; FS=15)
+/Sect_2 (SN=On Payment Terms;TP=GRP|LH;BV=V42565A;SI=3;PI=2)
+/Ctrl_0_2 (CN=; CI=2; SI=3; TP=RV; DT=S; AL=CompanyKey; FS=5)
+/Ctrl_1_2 (CN=BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB; CI=3; SI=3; TP=RC; DT=S; AL=RptConstO\
+bj; FS=30)
+/Ctrl_2_2 (CN=Send Invoice To WF; CI=79; SI=3; TP=RV; DT=S; AL=SendInvoiceToCP; FS=\
+1)
+/Ctrl_3_2 (CN=Invoice Consolidation WF; CI=31; SI=3; TP=RV; DT=S; AL=EverestEventPo\
+int01; FS=1)
+/Ctrl_4_2 (CN=Page Number; CI=8; SI=3; TP=RV; DT=N; AL=RptVarObj; FS=10)
+/Ctrl_5_2 (CN=Page Number; CI=7; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=11)
+/Ctrl_6_2 (CN=-; CI=46; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_7_2 (CN=I N V O I C E; CI=4; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=13)
+/Ctrl_8_2 (CN=Related Addr 6 WF; CI=87; SI=3; TP=RV; DT=N; AL=AddressNumber6th; FS=\
+8)
+/Ctrl_9_2 (CN=Related Addr 4 WF; CI=85; SI=3; TP=RV; DT=N; AL=AddressNumber4th; FS=\
+8)
+/Ctrl_10_2 (CN=Related Addr 3 WF; CI=83; SI=3; TP=RV; DT=N; AL=AddressNumber3rd; FS=\
+8)
+/Ctrl_11_2 (CN=Sold To Tax ID WF; CI=89; SI=3; TP=RV; DT=S; AL=TaxId; FS=20)
+/Ctrl_12_2 (CN=Related Addr 2 WF; CI=81; SI=3; TP=RV; DT=N; AL=AddressNumber2nd; FS=\
+8)
+/Ctrl_13_2 (CN=AN8 For Address Lines WF; CI=91; SI=3; TP=RV; DT=N; AL=AddNoAlternate\
+Payee; FS=8)
+/Ctrl_14_2 (CN=; CI=9; SI=3; TP=RC; DT=S; AL=DateInvoiceJulian; FS=12)
+/Ctrl_15_2 (CN=Invoice Date; CI=146; SI=3; TP=RV; DT=D; AL=Date01; FS=6)
+/Ctrl_16_2 (CN=Print Additional Header Text; CI=238; SI=3; TP=RV; DT=S; AL=RptVarObj\
+; FS=20)
+/Ctrl_17_2 (CN=-; CI=45; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_18_2 (CN=Address Error Msg WF; CI=93; SI=3; TP=RV; DT=S; AL=VideoConstant04A; \
+FS=4)
+/Ctrl_19_2 (CN=Tax Person/Corp Format WF; CI=95; SI=3; TP=RV; DT=S; AL=EverestEventP\
+oint01; FS=1)
+/Ctrl_20_2 (CN=UDC Error Msg WF; CI=123; SI=3; TP=RV; DT=S; AL=ErrorMessageKey; FS=4\
+)
+/Ctrl_21_2 (CN=Ship To Tax ID WF; CI=104; SI=3; TP=RV; DT=S; AL=TaxId; FS=20)
+/Ctrl_22_2 (CN=Address Number; CI=193; SI=3; TP=RV; DT=N; AL=AddressNumber; FS=8)
+/Ctrl_23_2 (CN=-; CI=44; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_24_2 (CN=        Sold To:; CI=47; SI=3; TP=RC; DT=S; AL=NameAlpha; FS=16)
+/Ctrl_25_2 (CN=Sold To Addr Alpha Name; CI=48; SI=3; TP=RV; DT=S; AL=NameAlpha; FS=4\
+0)
+/Ctrl_26_2 (CN=Ship To:; CI=49; SI=3; TP=RC; DT=S; AL=NameAlpha; FS=8)
+/Ctrl_27_2 (CN=Ship To Addr Alpha Name; CI=50; SI=3; TP=RV; DT=S; AL=NameAlpha; FS=4\
+0)
+/Ctrl_28_2 (CN=Customer; CI=11; SI=3; TP=RC; DT=S; AL=AddressNumber; FS=8)
+/Ctrl_29_2 (CN=Ship To Addr Line 1; CI=58; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_30_2 (CN=Sold To Addr Line 1; CI=51; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_31_2 (CN=-; CI=43; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_32_2 (CN=Addr Lines Error Code WF; CI=74; SI=3; TP=RV; DT=S; AL=ErrorCode; FS=\
+1)
+/Ctrl_33_2 (CN=; CI=242; SI=3; TP=RV; DT=S; AL=CostCenter; FS=12)
+/Ctrl_34_2 (CN=Brn/Plt; CI=13; SI=3; TP=RC; DT=S; AL=CostCenter; FS=7)
+/Ctrl_35_2 (CN=Sold To Addr Line 2; CI=52; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_36_2 (CN=Ship To Addr Line 2; CI=59; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_37_2 (CN=Related PO; CI=34; SI=3; TP=RV; DT=S; AL=VideoConstant08A; FS=8)
+/Ctrl_38_2 (CN=Related POType; CI=270; SI=3; TP=RV; DT=S; AL=RelatedOrderType; FS=2)
+/Ctrl_39_2 (CN=-; CI=42; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_40_2 (CN=Related P.O.; CI=32; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=12)
+/Ctrl_41_2 (CN=Ship To Addr Line 3; CI=60; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_42_2 (CN=City \(WF\); CI=66; SI=3; TP=RV; DT=S; AL=City; FS=25)
+/Ctrl_43_2 (CN=Sold To Addr Line 3; CI=53; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_44_2 (CN=-; CI=41; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_45_2 (CN=Order Nbr; CI=35; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=9)
+/Ctrl_46_2 (CN=Order Type; CI=39; SI=3; TP=RV; DT=S; AL=FinalDocumentType; FS=2)
+/Ctrl_47_2 (CN=; CI=37; SI=3; TP=RV; DT=N; AL=DocumentOrder; FS=8)
+/Ctrl_48_2 (CN=State WF; CI=68; SI=3; TP=RV; DT=S; AL=State; FS=3)
+/Ctrl_49_2 (CN=Sold To Addr Line 4; CI=54; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_50_2 (CN=Ship To Addr Line 4; CI=61; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_51_2 (CN=Invoice Number; CI=27; SI=3; TP=RV; DT=N; AL=DocumentOrder; FS=8)
+/Ctrl_52_2 (CN=Invoice; CI=25; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=7)
+/Ctrl_53_2 (CN=Invoice Type; CI=29; SI=3; TP=RV; DT=S; AL=FinalDocumentType; FS=2)
+/Ctrl_54_2 (CN=-; CI=40; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_55_2 (CN=Sold To Addr Line 5; CI=55; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_56_2 (CN=Ship To Addr Line 5; CI=62; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_57_2 (CN=Country WF; CI=72; SI=3; TP=RV; DT=S; AL=Country; FS=3)
+/Ctrl_58_2 (CN=Zip Code WF; CI=70; SI=3; TP=RV; DT=S; AL=ZipCodePostal; FS=12)
+/Ctrl_59_2 (CN=Ship To Addr Line 6; CI=63; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_60_2 (CN=Sold To Addr Line 6; CI=56; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_61_2 (CN=RMA Number; CI=246; SI=3; TP=RV; DT=N; AL=DocumentOrderInvoi; FS=8)
+/Ctrl_62_2 (CN=RMA Number; CI=245; SI=3; TP=RC; DT=S; AL=DocumentOrderInvoi; FS=10)
+/Ctrl_63_2 (CN=RMA Type; CI=248; SI=3; TP=RV; DT=S; AL=DoctType; FS=2)
+/Ctrl_64_2 (CN=Sold To Addr Line 7; CI=57; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_65_2 (CN=Ship To Addr Line 7; CI=64; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_66_2 (CN=Sold To Addr Line 8; CI=232; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_67_2 (CN=Ship To Addr Line 8; CI=234; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_68_2 (CN=Related Addr 1 WF; CI=230; SI=3; TP=RV; DT=N; AL=AddressNumber1st; FS\
+=8)
+/Ctrl_69_2 (CN=Ship To Addr Line 9; CI=236; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_70_2 (CN=Sold To Addr Line 9; CI=235; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=41)
+/Ctrl_71_2 (CN=Currency Code; CI=77; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=3)
+/Ctrl_72_2 (CN=; CI=266; SI=3; TP=RV; DT=S; AL=SoldToAttention; FS=41)
+/Ctrl_73_2 (CN=Attention:; CI=267; SI=3; TP=RC; DT=S; AL=ShipToAttention; FS=10)
+/Ctrl_74_2 (CN=; CI=268; SI=3; TP=RV; DT=S; AL=ShipToAttention; FS=41)
+/Ctrl_75_2 (CN=Attention:; CI=265; SI=3; TP=RC; DT=S; AL=SoldToAttention; FS=10)
+/Ctrl_76_2 (CN=Supplier Tax ID; CI=273; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=15)
+/Ctrl_77_2 (CN=Supplier Tax ID; CI=272; SI=3; TP=RV; DT=S; AL=Description; FS=30)
+/Ctrl_78_2 (CN=; CI=98; SI=3; TP=RC; DT=S; AL=Description; FS=11)
+/Ctrl_79_2 (CN=Tax ID - Sold To; CI=99; SI=3; TP=RV; DT=S; AL=Description; FS=30)
+/Ctrl_80_2 (CN=; CI=250; SI=3; TP=RV; DT=N; AL=AddressNumberPaidBy; FS=8)
+/Ctrl_81_2 (CN=Paid By Alpha Name; CI=255; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=30)
+/Ctrl_82_2 (CN=Paid By; CI=254; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=7)
+/Ctrl_83_2 (CN=Tax ID - Ship To; CI=102; SI=3; TP=RV; DT=S; AL=Description; FS=30)
+/Ctrl_84_2 (CN=Tax ID:; CI=100; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=7)
+/Ctrl_85_2 (CN=; CI=217; SI=3; TP=RV; DT=S; AL=CertificateTaxExempt; FS=20)
+/Ctrl_86_2 (CN=; CI=216; SI=3; TP=RC; DT=S; AL=CertificateTaxExempt; FS=11)
+/Ctrl_87_2 (CN=Variable 000073; CI=108; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=146)
+/Ctrl_88_2 (CN=F.O.B.; CI=112; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=6)
+/Ctrl_89_2 (CN=; CI=223; SI=3; TP=RV; DT=S; AL=DeliveryInstructLine1; FS=30)
+/Ctrl_90_2 (CN=; CI=222; SI=3; TP=RC; DT=S; AL=DeliveryInstructLine1; FS=21)
+/Ctrl_91_2 (CN=Request Date; CI=219; SI=3; TP=RC; DT=S; AL=DateRequestedJulian; FS=1\
+2)
+/Ctrl_92_2 (CN=Customer P.O.; CI=111; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=13)
+/Ctrl_93_2 (CN=Freight Handling Desc; CI=121; SI=3; TP=RV; DT=S; AL=Description001; \
+FS=30)
+/Ctrl_94_2 (CN=; CI=220; SI=3; TP=RV; DT=D; AL=DateRequestedJulian; FS=6)
+/Ctrl_95_2 (CN=Reference; CI=119; SI=3; TP=RV; DT=S; AL=Reference2Vendor; FS=25)
+/Ctrl_96_2 (CN=; CI=226; SI=3; TP=RV; DT=S; AL=DeliveryInstructLine2; FS=30)
+/Ctrl_97_2 (CN=; CI=225; SI=3; TP=RC; DT=S; AL=DeliveryInstructLine2; FS=21)
+/Ctrl_98_2 (CN=Variable 000085; CI=117; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=146)
+/Ctrl_99_2 (CN=MSG - Global Message; CI=251; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=145\
+)
+/Ctrl_100_2 (CN=UM; CI=127; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=2)
+/Ctrl_101_2 (CN=Item Number; CI=126; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=11)
+/Ctrl_102_2 (CN=Description; CI=125; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=11)
+/Ctrl_103_2 (CN=Ln/Rq Dt; CI=124; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=8)
+/Ctrl_104_2 (CN=Extended Cost; CI=132; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=13)
+/Ctrl_105_2 (CN=Pct; CI=133; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=3)
+/Ctrl_106_2 (CN=Price; CI=129; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=5)
+/Ctrl_107_2 (CN=Extended Price; CI=130; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=14)
+/Ctrl_108_2 (CN=Ship/Back/Cancel; CI=128; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=16)
+/Ctrl_109_2 (CN=Tax; CI=131; SI=3; TP=RC; DT=S; AL=RptConstObj; FS=3)
+/Ctrl_110_2 (CN=UnderL10; CI=144; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=5)
+/Ctrl_111_2 (CN=UnderL9; CI=143; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=18)
+/Ctrl_112_2 (CN=UnderL8; CI=142; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=3)
+/Ctrl_113_2 (CN=UnderL7; CI=141; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=19)
+/Ctrl_114_2 (CN=UnderL6; CI=140; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=18)
+/Ctrl_115_2 (CN=UnderL5; CI=139; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=18)
+/Ctrl_116_2 (CN=UnderL4; CI=138; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=3)
+/Ctrl_117_2 (CN=UnderL3; CI=137; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=26)
+/Ctrl_118_2 (CN=UnderL2; CI=136; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=30)
+/Ctrl_119_2 (CN=UnderL1; CI=135; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=8)
+/Ctrl_120_2 (CN=MSG - Header Message; CI=237; SI=3; TP=RV; DT=S; AL=RptVarObj; FS=145\
+)
+/Sect_3 (SN=On Payment Terms;TP=GRP|LF;BV=None;SI=5;PI=2)
+/Ctrl_0_3 (CN=TAXT:Sales Tax Total 1 \(wf\); CI=227; SI=5; TP=RV; DT=N; AL=AmtSales\
+TaxTotal; FS=15)
+/Ctrl_1_3 (CN=SFXO:Order Suffix \(wf\); CI=169; SI=5; TP=RV; DT=S; AL=OrderSuffix; \
+FS=3)
+/Ctrl_2_3 (CN=EDTY:Record Type \(wf\); CI=149; SI=5; TP=RV; DT=S; AL=EDIType; FS=1)
+/Ctrl_3_3 (CN=DCD:Discount Days \(wf\); CI=116; SI=5; TP=RV; DT=N; AL=DiscountDays;\
+ FS=3)
+/Ctrl_4_3 (CN=DCP:Payment Terms Discount % \(; CI=113; SI=5; TP=RV; DT=N; AL=Discou\
+ntPaymentTerms; FS=5)
+/Ctrl_5_3 (CN=AN8:Address Number \(wf\); CI=83; SI=5; TP=RV; DT=N; AL=AddressNumber\
+; FS=8)
+/Ctrl_6_3 (CN=TAX4:Sales Tax Total 4 \(wf\); CI=236; SI=5; TP=RV; DT=N; AL=AmtSales\
+TaxTotal4; FS=15)
+/Ctrl_7_3 (CN=TAX5:Sales Tax Total 5 \(wf\); CI=239; SI=5; TP=RV; DT=N; AL=AmtSales\
+TaxTotal5; FS=15)
+/Ctrl_8_3 (CN=Days To Pay Aging WF; CI=11; SI=5; TP=RV; DT=N; AL=MathNumeric01; FS=\
+15)
+/Ctrl_9_3 (CN=TAX3:Sales Tax Total 3 \(wf\); CI=233; SI=5; TP=RV; DT=N; AL=AmtSales\
+TaxTotal3; FS=15)
+/Ctrl_10_3 (CN=TXR2:Tax Rate 2 \(wf\); CI=215; SI=5; TP=RV; DT=N; AL=TaxRate2; FS=7)
+/Ctrl_11_3 (CN=TXR1:Tax Rate 1 \(wf\); CI=212; SI=5; TP=RV; DT=N; AL=TaxRate1; FS=7)
+/Ctrl_12_3 (CN=TA5:Tax Authority 5 \(wf\); CI=209; SI=5; TP=RV; DT=N; AL=TaxAuthorit\
+y5; FS=8)
+/Ctrl_13_3 (CN=INT02:Tax Authority Counter \(w; CI=249; SI=5; TP=RV; DT=N; AL=Intege\
+r02; FS=4)
+/Ctrl_14_3 (CN=TA4:Tax Authority 4 \(wf\); CI=206; SI=5; TP=RV; DT=N; AL=TaxAuthorit\
+y4; FS=8)
+/Ctrl_15_3 (CN=TA3:Tax Authority 3 \(wf\); CI=203; SI=5; TP=RV; DT=N; AL=TaxAuthorit\
+y3; FS=8)
+/Ctrl_16_3 (CN=TA2:Tax Authority 2 \(wf\); CI=200; SI=5; TP=RV; DT=N; AL=TaxAuthorit\
+y2; FS=8)
+/Ctrl_17_3 (CN=TAX2:Sales Tax Total 2 \(wf\); CI=230; SI=5; TP=RV; DT=N; AL=AmtSales\
+TaxTotal2; FS=15)
+/Ctrl_18_3 (CN=TA1:Tax Authority 1 \(wf\); CI=197; SI=5; TP=RV; DT=N; AL=TaxAuthorit\
+y1A; FS=8)
+/Ctrl_19_3 (CN=TXR3:Tax Rate 3 \(wf\); CI=218; SI=5; TP=RV; DT=N; AL=TaxRate3; FS=7)
+/Ctrl_20_3 (CN=MLNM:Mailing Name \(wf\); CI=107; SI=5; TP=RV; DT=S; AL=NameMailing; \
+FS=40)
+/Ctrl_21_3 (CN=EDSQ:Record Sequence \(wf\); CI=77; SI=5; TP=RV; DT=N; AL=EDISeq; FS=\
+2)
+/Ctrl_22_3 (CN=MCU:Business Unit \(wf\); CI=80; SI=5; TP=RV; DT=S; AL=CostCenter; FS\
+=12)
+/Ctrl_23_3 (CN=NSP:Number of Split Payments \(; CI=128; SI=5; TP=RV; DT=N; AL=Number\
+OfSplitPayments; FS=2)
+/Ctrl_24_3 (CN=TAX:Tax ID \(wf\); CI=86; SI=5; TP=RV; DT=S; AL=TaxId; FS=20)
+/Ctrl_25_3 (CN=TAXC:Person/Corporation Code \(; CI=95; SI=5; TP=RV; DT=S; AL=PersonC\
+orporationCode; FS=1)
+/Ctrl_26_3 (CN=TX2:Add'l Ind Tax ID \(wf\); CI=101; SI=5; TP=RV; DT=S; AL=TaxId2; FS\
+=20)
+/Ctrl_27_3 (CN=NAID:Address Id Code \(wf\); CI=104; SI=5; TP=RV; DT=S; AL=AddressIdC\
+ode; FS=1)
+/Ctrl_28_3 (CN=PA8:Parent Number \(wf\); CI=166; SI=5; TP=RV; DT=N; AL=AddressNumber\
+Parent; FS=8)
+/Ctrl_29_3 (CN=TXR4:Tax Rate 4 \(wf\); CI=221; SI=5; TP=RV; DT=N; AL=TaxRate4; FS=7)
+/Ctrl_30_3 (CN=TXR5:Tax Rate 5 \(wf\); CI=224; SI=5; TP=RV; DT=N; AL=TaxRate5; FS=7)
+/Ctrl_31_3 (CN=NDTP:Net Days to Pay \(wf\); CI=119; SI=5; TP=RV; DT=N; AL=NetDaysToP\
+ay; FS=3)
+/Ctrl_32_3 (CN=DDU:Due Date \(wf\); CI=122; SI=5; TP=RV; DT=D; AL=DATE_DUE_1; FS=6)
+/Ctrl_33_3 (CN=Sales Tax; CI=1; SI=5; TP=RC; DT=S; AL=RptConstObj; FS=9)
+/Ctrl_34_3 (CN=Total Order; CI=2; SI=5; TP=RC; DT=S; AL=RptConstObj; FS=11)
+/Ctrl_35_3 (CN=Variable 000003; CI=3; SI=5; TP=RV; DT=S; AL=RptVarObj; FS=144)
+/Ctrl_36_3 (CN=Tax Authority AN8 WF; CI=41; SI=5; TP=RV; DT=N; AL=AddNoAlternatePaye\
+e; FS=8)
+/Ctrl_37_3 (CN=Net Due Date; CI=7; SI=5; TP=RC; DT=S; AL=RptConstObj; FS=12)
+/Ctrl_38_3 (CN=Net Due Date; CI=9; SI=5; TP=RV; DT=D; AL=Date03; FS=6)
+/Ctrl_39_3 (CN=Split Payment Date; CI=13; SI=5; TP=RV; DT=D; AL=Date04; FS=6)
+/Ctrl_40_3 (CN=Total Order; CI=25; SI=5; TP=RV; DT=N; AL=MathNumeric04; FS=15)
+/Ctrl_41_3 (CN=Total Sales Tax; CI=21; SI=5; TP=RV; DT=N; AL=MathNumeric02; FS=15)
+/Ctrl_42_3 (CN=Tax Rate Or N/A; CI=19; SI=5; TP=RV; DT=S; AL=VideoConstant10A; FS=10\
+)
+/Ctrl_43_3 (CN=Tax Rate; CI=15; SI=5; TP=RC; DT=S; AL=RptConstObj; FS=8)
+/Ctrl_44_3 (CN=-; CI=14; SI=5; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_45_3 (CN=Payment Terms Desc; CI=6; SI=5; TP=RV; DT=S; AL=Description001; FS=30\
+)
+/Ctrl_46_3 (CN=Return Record Type; CI=39; SI=5; TP=RV; DT=N; AL=MathNumeric09; FS=3)
+/Ctrl_47_3 (CN=Tax Summ Error Code WF; CI=37; SI=5; TP=RV; DT=S; AL=EverestEventPoin\
+t01; FS=1)
+/Ctrl_48_3 (CN=Array Element Counter WF; CI=31; SI=5; TP=RV; DT=N; AL=Integer01; FS=\
+4)
+/Ctrl_49_3 (CN=Terms; CI=4; SI=5; TP=RC; DT=S; AL=RptConstObj; FS=5)
+/Ctrl_50_3 (CN=Exchange rate is not setup for; CI=260; SI=5; TP=RC; DT=S; AL=RptCons\
+tObj; FS=59)
+/Ctrl_51_3 (CN=As If Total Order; CI=255; SI=5; TP=RV; DT=N; AL=MathNumeric04; FS=15\
+)
+/Ctrl_52_3 (CN=As If Total Tax Amount; CI=253; SI=5; TP=RV; DT=N; AL=MathNumeric02; \
+FS=15)
+/Ctrl_53_3 (CN=Total Order As If Currency Cod; CI=259; SI=5; TP=RV; DT=S; AL=AsIfCur\
+rencyCode; FS=3)
+/Ctrl_54_3 (CN=Sales Total As If Currency Cod; CI=257; SI=5; TP=RV; DT=S; AL=AsIfCur\
+rencyCode; FS=3)
+/Ctrl_55_3 (CN=Total Extended Price WF; CI=23; SI=5; TP=RV; DT=N; AL=MathNumeric03; \
+FS=15)
+/Ctrl_56_3 (CN=Discount Available; CI=28; SI=5; TP=RC; DT=S; AL=MathNumeric05; FS=18\
+)
+/Ctrl_57_3 (CN=Discount Available; CI=29; SI=5; TP=RV; DT=N; AL=MathNumeric05; FS=15\
+)
+/Ctrl_58_3 (CN=TotalPrepaidAmount; CI=250; SI=5; TP=RV; DT=N; AL=MathNumeric02; FS=1\
+5)
+/Ctrl_59_3 (CN=Prepaid Amount; CI=251; SI=5; TP=RC; DT=S; AL=MathNumeric02; FS=14)
+/Sect_4 (SN=Global Variables Section;TP=GRP|CD;BV=None;SI=4;PI=0)
+/Ctrl_0_4 (CN=Payment Terms Code \(Gbl\) WF; CI=3; SI=4; TP=RV; DT=S; AL=PaymentTer\
+ms; FS=3)
+/Ctrl_1_4 (CN=Invoice Date \(Gbl\) WF; CI=7; SI=4; TP=RV; DT=D; AL=Date 02; FS=6)
+/Ctrl_2_4 (CN=Change in Tax SW \(Gbl\) WF; CI=11; SI=4; TP=RV; DT=S; AL=EverestEven\
+tPoint02; FS=1)
+/Ctrl_3_4 (CN=Store Taxable Flag \(Gbl\) WF; CI=13; SI=4; TP=RV; DT=S; AL=TaxableYN\
+; FS=1)
+/Ctrl_4_4 (CN=Store Tax Area \(Gbl\) WF; CI=15; SI=4; TP=RV; DT=S; AL=TaxArea1; FS=\
+10)
+/Ctrl_5_4 (CN=Store Tax Rate \(Gbl\) WF; CI=17; SI=4; TP=RV; DT=N; AL=MathNumeric01\
+; FS=15)
+/Ctrl_6_4 (CN=Store Tax Item \(Gbl\) WF; CI=25; SI=4; TP=RV; DT=N; AL=IdentifierSho\
+rtItem; FS=8)
+/Ctrl_7_4 (CN=Print Tax Summary Flag WF; CI=27; SI=4; TP=RV; DT=S; AL=EverestEventP\
+oint03; FS=1)
+/Ctrl_8_4 (CN=Store Total Extend Price \(Gbl\); CI=29; SI=4; TP=RV; DT=N; AL=MathNu\
+meric02; FS=15)
+/Ctrl_9_4 (CN=Ptr To Tax Array By Group WF; CI=31; SI=4; TP=RV; DT=N; AL=GenericLon\
+g; FS=11)
+/Ctrl_10_4 (CN=Ptr To Tax Array By Area/Auth ; CI=33; SI=4; TP=RV; DT=N; AL=GenericL\
+ong2; FS=11)
+/Ctrl_11_4 (CN=RYIN-Payment Instrument \(Gbl\) ; CI=37; SI=4; TP=RV; DT=S; AL=Paymen\
+tInstrumentA; FS=1)
+/Ctrl_12_4 (CN=AN8-Sold To Address \(Gbl\) \(wf\); CI=39; SI=4; TP=RV; DT=N; AL=Addr\
+essNumber; FS=8)
+/Ctrl_13_4 (CN=EV09-Do Not Print Page Header ; CI=41; SI=4; TP=RV; DT=S; AL=EverestE\
+ventPoint09; FS=1)
+/Ctrl_14_4 (CN=EDBT-Batch Number \(Gbl\) \(wf\); CI=43; SI=4; TP=RV; DT=S; AL=EdiBat\
+chNumber; FS=15)
+/Ctrl_15_4 (CN=FILE-EDI File ID \(Gbl\) \(wf\); CI=46; SI=4; TP=RV; DT=S; AL=FileNam\
+e; FS=10)
+/Ctrl_16_4 (CN=FILE-EDI File ID - Detail \(Gbl; CI=48; SI=4; TP=RV; DT=S; AL=FileNam\
+e; FS=10)
+/Ctrl_17_4 (CN=DOC:Document Number \(Gbl\) \(wf\); CI=50; SI=4; TP=RV; DT=N; AL=DocV\
+oucherInvoiceE; FS=8)
+/Ctrl_18_4 (CN=DCT:Document Type \(Gbl\) \(wf\); CI=53; SI=4; TP=RV; DT=S; AL=Docume\
+ntType; FS=2)
+/Ctrl_19_4 (CN=KCO:Document Company \(Gbl\) \(wf; CI=56; SI=4; TP=RV; DT=S; AL=Compa\
+nyKey; FS=5)
+/Ctrl_20_4 (CN=DOCO:Order Number \(Gbl\) \(wf\); CI=59; SI=4; TP=RV; DT=N; AL=Docume\
+ntOrderInvoiceE; FS=8)
+/Ctrl_21_4 (CN=DCTO:Order Type \(Gbl\) \(wf\); CI=62; SI=4; TP=RV; DT=S; AL=OrderTyp\
+e; FS=2)
+/Ctrl_22_4 (CN=KCOO:Order Number Document Com; CI=65; SI=4; TP=RV; DT=S; AL=CompanyK\
+eyOrderNo; FS=5)
+/Ctrl_23_4 (CN=LNID:Line Number \(Gbl\) \(wf\); CI=68; SI=4; TP=RV; DT=N; AL=LineNum\
+ber; FS=6)
+/Ctrl_24_4 (CN=Ptr to Tax Array by Explanatio; CI=237; SI=4; TP=RV; DT=N; AL=Generic\
+Long; FS=11)
+/Ctrl_25_4 (CN=EDCT:EDI Document Type \(Gbl\) \(; CI=81; SI=4; TP=RV; DT=S; AL=EdiDo\
+cumentType; FS=2)
+/Ctrl_26_4 (CN=EKCO:EDI Document Key Company ; CI=84; SI=4; TP=RV; DT=S; AL=CompanyK\
+eyEdiOrder; FS=5)
+/Ctrl_27_4 (CN=EDLN:EDI Line Number \(Gbl\) \(wf; CI=87; SI=4; TP=RV; DT=N; AL=EdiLi\
+neNumber; FS=7)
+/Ctrl_28_4 (CN=TORG:Trans. Orig./User Id \(Gbl; CI=90; SI=4; TP=RV; DT=S; AL=Transac\
+tionOriginator; FS=10)
+/Ctrl_29_4 (CN=PID:Program ID \(Gbl\) \(wf\); CI=93; SI=4; TP=RV; DT=S; AL=ProgramId\
+; FS=10)
+/Ctrl_30_4 (CN=JOBN:Work Station ID \(Gbl\) \(wf; CI=96; SI=4; TP=RV; DT=S; AL=WorkS\
+tationId; FS=10)
+/Ctrl_31_4 (CN=UPMJ:Date Updated \(Gbl\) \(wf\); CI=99; SI=4; TP=RV; DT=D; AL=DateUp\
+dated; FS=6)
+/Ctrl_32_4 (CN=TDAY:Time of Day \(Gbl\) \(wf\); CI=102; SI=4; TP=RV; DT=N; AL=TimeOf\
+Day; FS=6)
+/Ctrl_33_4 (CN=EDOC:EDI Document Number \(Gbl\); CI=78; SI=4; TP=RV; DT=N; AL=EdiDoc\
+umentNumber; FS=9)
+/Ctrl_34_4 (CN=ADSC:Discount Available \(Gbl\) ; CI=108; SI=4; TP=RV; DT=N; AL=AmtDi\
+scountAvailable; FS=15)
+/Ctrl_35_4 (CN=ATXN:Non-Taxable Amount \(Gbl\) ; CI=111; SI=4; TP=RV; DT=N; AL=Amoun\
+tTaxExempt; FS=15)
+/Ctrl_36_4 (CN=DSCT:Discount Amount \(Gbl\) \(wf; CI=105; SI=4; TP=RV; DT=N; AL=AmtD\
+iscountTotal; FS=15)
+/Ctrl_37_4 (CN=LNGP-LanguagePreference \(wf gv; CI=120; SI=4; TP=RV; DT=S; AL=Langua\
+gePreference; FS=2)
+/Ctrl_38_4 (CN=LNGP-F4016Language \(wf gv\); CI=117; SI=4; TP=RV; DT=S; AL=LanguageP\
+reference; FS=2)
+/Ctrl_39_4 (CN=EV01-PrintMessageY/N \(wf gv\); CI=114; SI=4; TP=RV; DT=S; AL=Everest\
+EventPoint01; FS=1)
+/Ctrl_40_4 (CN=ADVP-Advanced Pricing Y/N \(Gbl; CI=123; SI=4; TP=RV; DT=S; AL=Advanc\
+edSalesPricingYN; FS=1)
+/Ctrl_41_4 (CN=AST-Adjustment Name\(Gblwf\); CI=222; SI=4; TP=RV; DT=S; AL=PriceAdju\
+stmentType; FS=8)
+/Ctrl_42_4 (CN=UPRC-Unit Price\(Gblwf\); CI=144; SI=4; TP=RV; DT=N; AL=AmtPricePerUn\
+it2; FS=15)
+/Ctrl_43_4 (CN=DSC1-Description\(Gblwf\); CI=132; SI=4; TP=RV; DT=S; AL=DescriptionL\
+ine1; FS=30)
+/Ctrl_44_4 (CN=UITM-Item Number\(Gblwf\); CI=135; SI=4; TP=RV; DT=S; AL=ItemNoUnknow\
+nFormat; FS=26)
+/Ctrl_45_4 (CN=szDocCustomerName; CI=243; SI=4; TP=RV; DT=S; AL=Description001; FS=3\
+0)
+/Ctrl_46_4 (CN=Number of Detail Lines; CI=239; SI=4; TP=RV; DT=N; AL=EdiDetailLinesP\
+rocess; FS=5)
+/Ctrl_47_4 (CN=Header Num Lines; CI=241; SI=4; TP=RV; DT=N; AL=EdiDetailLinesProcess\
+; FS=5)
+/Ctrl_48_4 (CN=CTID-Computerr ID\(Gblwf\); CI=225; SI=4; TP=RV; DT=S; AL=ComputerID;\
+ FS=15)
+/Ctrl_49_4 (CN=JOBS-Job Number\(Gblwf\); CI=228; SI=4; TP=RV; DT=N; AL=JobnumberA; F\
+S=8)
+/Ctrl_50_4 (CN=CRDC-Base Currency \(Gblwf\); CI=231; SI=4; TP=RV; DT=S; AL=CurrencyC\
+odeTo; FS=3)
+/Ctrl_51_4 (CN=EV02-Invoice Consolidation\(Gbl; CI=234; SI=4; TP=RV; DT=S; AL=Everes\
+tEventPoint02; FS=1)
+/Sect_5 (SN=Order Total Section;TP=GRP|CD;BV=None;SI=6;PI=0)
+/Ctrl_0_5 (CN=Variable 000001; CI=1; SI=6; TP=RV; DT=S; AL=RptVarObj; FS=19)
+/Ctrl_1_5 (CN=Total:; CI=2; SI=6; TP=RC; DT=S; AL=MathNumeric01; FS=6)
+/Ctrl_2_5 (CN=Order Total Extended Price; CI=3; SI=6; TP=RV; DT=N; AL=MathNumeric01\
+; FS=15)
+/Ctrl_3_5 (CN=As If Net Amount; CI=6; SI=6; TP=RV; DT=N; AL=MathNumeric01; FS=15)
+/Ctrl_4_5 (CN=Net Amount As If Currency Code; CI=8; SI=6; TP=RV; DT=S; AL=AsIfCurre\
+ncyCode; FS=3)
+/Sect_6 (SN=Tax Group Summary Heading;TP=GRP|CD;BV=None;SI=7;PI=0)
+/Ctrl_0_6 (CN=.  .  .  .  .  .  .  .  .  .  ; CI=1; SI=7; TP=RC; DT=S; AL=RptConstO\
+bj; FS=146)
+/Ctrl_1_6 (CN=.  .  .  .  .  .  .  .  .  .  ; CI=2; SI=7; TP=RC; DT=S; AL=RptConstO\
+bj; FS=138)
+/Sect_7 (SN=Tax Summary Lines Section;TP=GRP|CD;BV=None;SI=8;PI=0)
+/Ctrl_0_7 (CN=Summary Tax Description; CI=2; SI=8; TP=RV; DT=S; AL=DescriptionLine2\
+; FS=50)
+/Ctrl_1_7 (CN=Summary Tax Rate; CI=4; SI=8; TP=RV; DT=N; AL=TaxRate1; FS=7)
+/Ctrl_2_7 (CN=Summary Factor Type; CI=6; SI=8; TP=RV; DT=S; AL=FactorValueType; FS=\
+1)
+/Ctrl_3_7 (CN=Summary Taxable Amt; CI=8; SI=8; TP=RV; DT=N; AL=AmountTaxable; FS=15\
+)
+/Ctrl_4_7 (CN=Summary Tax Amt; CI=10; SI=8; TP=RV; DT=N; AL=AmtTax2; FS=15)
+/Ctrl_5_7 (CN=Summary Tax Amount Left Justif; CI=13; SI=8; TP=RV; DT=N; AL=AmtTax2;\
+ FS=15)
+/Sect_8 (SN=Delete Work File Section;TP=GRP|CD;BV=V42565B;SI=9;PI=0)
+/Ctrl_0_8 (CN=This section does not print.  ; CI=1; SI=9; TP=RC; DT=S; AL=RptConstO\
+bj; FS=69)
+/Ctrl_1_8 (CN=\(Invoice Print File - Delete\) ; CI=2; SI=9; TP=RC; DT=S; AL=RptCons\
+tObj; FS=75)
+/Ctrl_2_8 (CN=the key fields.  It reads and ; CI=3; SI=9; TP=RC; DT=S; AL=RptConstO\
+bj; FS=73)
+/Ctrl_3_8 (CN=the work file ready for the ne; CI=4; SI=9; TP=RC; DT=S; AL=RptConstO\
+bj; FS=51)
+/Ctrl_4_8 (CN=This is changed to use Table I; CI=5; SI=9; TP=RC; DT=S; AL=RptConstO\
+bj; FS=43)
+/Sect_9 (SN=Dummy Page Throw Section;TP=GRP|CD;BV=None;SI=10;PI=0)
+/Sect_10 (SN=Invoice Draft Section;TP=GRP|CD;BV=None;SI=11;PI=0)
+/Ctrl_0_10 (CN=Payment Instr. \(string\) \(wf\); CI=3; SI=11; TP=RV; DT=S; AL=RptVar\
+Obj; FS=6)
+/Ctrl_1_10 (CN=VC03A-Pay. Instr. Desc \(1st 3 ; CI=2; SI=11; TP=RV; DT=S; AL=VideoCo\
+nstant03A; FS=35)
+/Ctrl_2_10 (CN=CTY1-Draft Issuing City; CI=6; SI=11; TP=RV; DT=S; AL=City; FS=17)
+/Ctrl_3_10 (CN=DSY-Invoice Date; CI=10; SI=11; TP=RV; DT=D; AL=DateBatchSystemDate1;\
+ FS=6)
+/Ctrl_4_10 (CN=AAP-Amount Due; CI=8; SI=11; TP=RV; DT=N; AL=AmountOpen; FS=15)
+/Ctrl_5_10 (CN=DD-Net Due Date; CI=12; SI=11; TP=RV; DT=D; AL=DateDue; FS=6)
+/Ctrl_6_10 (CN=DOC-Invoice Number; CI=14; SI=11; TP=RV; DT=N; AL=DocVoucherInvoiceE;\
+ FS=8)
+/Ctrl_7_10 (CN=AAP-Amount Open; CI=16; SI=11; TP=RV; DT=N; AL=AmountOpen; FS=15)
+/Ctrl_8_10 (CN=TNST-Bank Transit Number; CI=18; SI=11; TP=RV; DT=S; AL=BankTransitNu\
+mber; FS=5)
+/Ctrl_9_10 (CN=TNST-2nd Bank Transit Number; CI=20; SI=11; TP=RV; DT=S; AL=BankTrans\
+itNumber; FS=5)
+/Ctrl_10_10 (CN=CBNK-Cust. Bank A/c Number; CI=22; SI=11; TP=RV; DT=S; AL=CustBankAcc\
+tNumber; FS=12)
+/Ctrl_11_10 (CN=CHKD-Bank A/c Check Digit; CI=24; SI=11; TP=RV; DT=S; AL=ControlDigit\
+; FS=2)
+/Ctrl_12_10 (CN=DL01-Bank A/c Description; CI=26; SI=11; TP=RV; DT=S; AL=Description0\
+01; FS=30)
+/Ctrl_13_10 (CN=CRCD-From Currency Code; CI=28; SI=11; TP=RV; DT=S; AL=CurrencyCodeFr\
+om; FS=3)
+/Sect_11 (SN=Print Item And Description;TP=GRP|CD;BV=None;SI=12;PI=0)
+/Ctrl_0_11 (CN=; CI=3; SI=12; TP=RV; DT=N; AL=LineNumber; FS=6)
+/Ctrl_1_11 (CN=; CI=7; SI=12; TP=RV; DT=S; AL=DescriptionLine1; FS=30)
+/Ctrl_2_11 (CN=; CI=10; SI=12; TP=RV; DT=S; AL=ItemNoUnknownFormat; FS=26)
+/Ctrl_3_11 (CN=; CI=16; SI=12; TP=RV; DT=N; AL=AmtPricePerUnit2; FS=15)
+/Sect_12 (SN=Print Price Adjustments;TP=GRP|CD;BV=None;SI=13;PI=0)
+/Ctrl_0_12 (CN=; CI=5; SI=13; TP=RV; DT=S; AL=DescriptionLine1; FS=30)
+/Ctrl_1_12 (CN=Description - Promotion ID; CI=15; SI=13; TP=AD; DT=S; AL=Description\
+; FS=30)
+/Ctrl_2_12 (CN=; CI=8; SI=13; TP=RV; DT=N; AL=AmtPricePerUnit2; FS=15)
+/Ctrl_3_12 (CN=; CI=12; SI=13; TP=RV; DT=S; AL=PromotionID; FS=12)
+/Sect_13 (SN=Print Order Number Information;TP=GRP|CD;BV=None;SI=14;PI=0)
+/Ctrl_0_13 (CN=Order Number/Type/Co; CI=1; SI=14; TP=RC; DT=S; AL=DocumentOrderInvoi\
+ceE; FS=20)
+/Ctrl_1_13 (CN=; CI=2; SI=14; TP=RV; DT=N; AL=DocumentOrderInvoiceE; FS=8)
+/Ctrl_2_13 (CN=; CI=5; SI=14; TP=RV; DT=S; AL=OrderType; FS=2)
+/Ctrl_3_13 (CN=; CI=8; SI=14; TP=RV; DT=S; AL=CompanyKeyOrderNo; FS=5)
+/Ctrl_4_13 (CN=; CI=9; SI=14; TP=RC; DT=S; AL=CostCenter; FS=12)
+/Ctrl_5_13 (CN=; CI=10; SI=14; TP=RV; DT=S; AL=CostCenter; FS=12)
+/Ctrl_6_13 (CN=RMA Number/Type; CI=11; SI=14; TP=RC; DT=S; AL=DocumentOrderInvoi; FS\
+=15)
+/Ctrl_7_13 (CN=RMA Number; CI=12; SI=14; TP=RV; DT=N; AL=DocumentOrderInvoi; FS=8)
+/Ctrl_8_13 (CN=RMA Type; CI=14; SI=14; TP=RV; DT=S; AL=DoctType; FS=2)
+/Ctrl_9_13 (CN=; CI=16; SI=14; TP=RV; DT=S; AL=RelatedOrderType; FS=2)
+/Ctrl_10_13 (CN=Related PO Number; CI=17; SI=14; TP=RC; DT=S; AL=RelatedPoSoNumber; F\
+S=17)
+/Ctrl_11_13 (CN=; CI=18; SI=14; TP=RV; DT=S; AL=RelatedPoSoNumber; FS=8)
+/Sect_14 (SN=Print Text;TP=GRP|CD;BV=None;SI=15;PI=0)
+/Ctrl_0_14 (CN=Print Mesg or Assoc Text ; CI=1; SI=15; TP=RV; DT=S; AL=RptVarObj; FS\
+=145)
+/Sect_15 (SN=Basic Serial Numbers - Print;TP=GRP|CD;BV=V4220B;SI=16;PI=0)
+/Ctrl_0_15 (CN=LNID:Line Number\(wf\); CI=37; SI=16; TP=RV; DT=N; AL=LineNumber; FS=\
+7)
+/Ctrl_1_15 (CN=Serial Number\(s\) for Line; CI=29; SI=16; TP=RC; DT=S; AL=RptConstOb\
+j; FS=25)
+/Ctrl_2_15 (CN=SRL1:Serial Number; CI=6; SI=16; TP=RV; DT=S; AL=SWSRL1; FS=30)
+/Ctrl_3_15 (CN=; CI=26; SI=16; TP=RV; DT=N; AL=SWLNID; FS=7)
+/Ctrl_4_15 (CN=ITM:Short Item Number; CI=2; SI=16; TP=RV; DT=N; AL=SWITM; FS=8)
+/Sect_16 (SN=Print Factor Value and Based On Cost;TP=GRP|CD;BV=None;SI=17;PI=0)
+/Ctrl_0_16 (CN=; CI=2; SI=17; TP=RC; DT=S; AL=FactorValue; FS=12)
+/Ctrl_1_16 (CN=Factor Value - Print Factor Se; CI=3; SI=17; TP=RV; DT=N; AL=FactorVa\
+lue; FS=15)
+/Ctrl_2_16 (CN=; CI=4; SI=17; TP=RC; DT=S; AL=BasedOnValue; FS=14)
+/Ctrl_3_16 (CN=Based on Value - Print Factor ; CI=5; SI=17; TP=RV; DT=N; AL=BasedOnV\
+alue; FS=15)
+/Ctrl_4_16 (CN=Factor Value Sign - Print Fact; CI=7; SI=17; TP=RV; DT=S; AL=VideoCon\
+stant10A; FS=1)
+/Sect_17 (SN=Z_DLINK_Header_1st_Page;TP=GRP|CD;BV=None;SI=18;PI=0)
+/Ctrl_0_17 (CN=Z_H1P_ReportTitle; CI=2; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=30)
+/Ctrl_1_17 (CN=Z_H1P_ADDITIONAL_HDR_TEXT; CI=101; SI=18; TP=RV; DT=S; AL=RptVarObj; \
+FS=20)
+/Ctrl_2_17 (CN=Bill To:                    ; CI=3; SI=18; TP=RC; DT=S; AL=RptConstOb\
+j; FS=28)
+/Ctrl_3_17 (CN=Z_H1P_PageNumber; CI=80; SI=18; TP=RV; DT=N; AL=RptVarObj; FS=5)
+/Ctrl_4_17 (CN=Z_H1P_PageNumberMax; CI=81; SI=18; TP=RV; DT=N; AL=RptVarObj; FS=5)
+/Ctrl_5_17 (CN=Z_H1P_Bill To Addr Alpha Name; CI=27; SI=18; TP=RV; DT=S; AL=NameAlph\
+a; FS=40)
+/Ctrl_6_17 (CN=Page:                    ; CI=39; SI=18; TP=RC; DT=S; AL=RptConstObj;\
+ FS=25)
+/Ctrl_7_17 (CN=Date:                    ; CI=40; SI=18; TP=RC; DT=S; AL=RptConstObj;\
+ FS=25)
+/Ctrl_8_17 (CN=Z_H1P_Invoice_Date 01; CI=79; SI=18; TP=RV; DT=D; AL=Date01; FS=6)
+/Ctrl_9_17 (CN=Z_H1P_FMT_Invoice_Date 01; CI=105; SI=18; TP=RV; DT=S; AL=AlphaSpecDa\
+ta10; FS=10)
+/Ctrl_10_17 (CN=Z_H1P_Bill To Addr Line 1; CI=28; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_11_17 (CN=Cust. No:                    ; CI=41; SI=18; TP=RC; DT=S; AL=RptConst\
+Obj; FS=29)
+/Ctrl_12_17 (CN=Z_H1P_Bill To Addr Line 2; CI=30; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_13_17 (CN=Z_H1P_CustomerNo_Sold To; CI=75; SI=18; TP=RV; DT=N; AL=AddressNumber\
+; FS=8)
+/Ctrl_14_17 (CN=Z_H1P_Order Number; CI=73; SI=18; TP=RV; DT=N; AL=DocumentOrderInvoic\
+eE; FS=8)
+/Ctrl_15_17 (CN=Z_H1P_Order Type; CI=71; SI=18; TP=RV; DT=S; AL=OrderType; FS=2)
+/Ctrl_16_17 (CN=Z_H1P_Bill To Addr Line 3; CI=31; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_17_17 (CN=Order No:                    ; CI=42; SI=18; TP=RC; DT=S; AL=RptConst\
+Obj; FS=29)
+/Ctrl_18_17 (CN=Z_H1P_Customer PO; CI=85; SI=18; TP=RV; DT=S; AL=Reference1; FS=25)
+/Ctrl_19_17 (CN=Z_H1P_Bill To Addr Line 4; CI=32; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_20_17 (CN=Cust. P.O:                    ; CI=43; SI=18; TP=RC; DT=S; AL=RptCons\
+tObj; FS=30)
+/Ctrl_21_17 (CN=Z_H1P_Bill To Addr Line 5; CI=33; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_22_17 (CN=Z_H1P_Invoice_Document Type; CI=65; SI=18; TP=RV; DT=S; AL=DocumentTy\
+pe; FS=2)
+/Ctrl_23_17 (CN=Z_H1P_Invoice_Number; CI=67; SI=18; TP=RV; DT=N; AL=DocVoucherInvoice\
+E; FS=8)
+/Ctrl_24_17 (CN=Document:; CI=44; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=28)
+/Ctrl_25_17 (CN=Credit note:                ; CI=102; SI=18; TP=RC; DT=S; AL=RptConst\
+Obj; FS=28)
+/Ctrl_26_17 (CN=Z_H1P_VAT Reference; CI=63; SI=18; TP=RV; DT=S; AL=VAT_Reference; FS=\
+20)
+/Ctrl_27_17 (CN=VAT No \(Sold To\):             ; CI=45; SI=18; TP=RC; DT=S; AL=RptCo\
+nstObj; FS=41)
+/Ctrl_28_17 (CN=Z_H1P_Bill To Addr Line 6; CI=34; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_29_17 (CN=VAT No \(Ship To\):             ; CI=99; SI=18; TP=RC; DT=S; AL=RptCo\
+nstObj; FS=41)
+/Ctrl_30_17 (CN=Z_H1P_VAT Reference_SHAN; CI=100; SI=18; TP=RV; DT=S; AL=VAT_Referenc\
+e; FS=20)
+/Ctrl_31_17 (CN=Z_H1P_Bill To Addr Line 7; CI=35; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_32_17 (CN=Z_H1P_Bill To Addr Line 8; CI=36; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_33_17 (CN=Currency:                    ; CI=46; SI=18; TP=RC; DT=S; AL=RptConst\
+Obj; FS=29)
+/Ctrl_34_17 (CN=Z_H1P_Currency Code; CI=59; SI=18; TP=RV; DT=S; AL=CurrencyCodeFrom; \
+FS=3)
+/Ctrl_35_17 (CN=Z_H1P_Branch/Plant; CI=61; SI=18; TP=RV; DT=S; AL=CostCenter; FS=12)
+/Ctrl_36_17 (CN=Z_H1P_Bill To Addr Line 9; CI=37; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_37_17 (CN=Z_H1P_Branch/Plant_L; CI=97; SI=18; TP=RV; DT=S; AL=AlphaSpecData12; \
+FS=12)
+/Ctrl_38_17 (CN=B/P:                     ; CI=47; SI=18; TP=RC; DT=S; AL=RptConstObj;\
+ FS=25)
+/Ctrl_39_17 (CN=Channel:                    ; CI=48; SI=18; TP=RC; DT=S; AL=RptConstO\
+bj; FS=28)
+/Ctrl_40_17 (CN=Z_H1P_Zone Number; CI=83; SI=18; TP=RV; DT=S; AL=ZoneNumber; FS=3)
+/Ctrl_41_17 (CN=Z_H1P_SpacerEstDate; CI=108; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=1)
+/Ctrl_42_17 (CN=Estimated Delivery Date:      ; CI=107; SI=18; TP=RC; DT=S; AL=RptCon\
+stObj; FS=39)
+/Ctrl_43_17 (CN=Z_H1P_FMT_EstDelv_Date 01; CI=106; SI=18; TP=RV; DT=S; AL=AlphaSpecDa\
+ta10; FS=10)
+/Ctrl_44_17 (CN=Ship To:                    ; CI=26; SI=18; TP=RC; DT=S; AL=RptConstO\
+bj; FS=28)
+/Ctrl_45_17 (CN=Z_H1P_Sold To Addr Alpha Name; CI=5; SI=18; TP=RV; DT=S; AL=NameAlpha\
+; FS=40)
+/Ctrl_46_17 (CN=Sold To:                    ; CI=4; SI=18; TP=RC; DT=S; AL=RptConstOb\
+j; FS=28)
+/Ctrl_47_17 (CN=Z_H1P_Ship To Addr Alpha Name; CI=16; SI=18; TP=RV; DT=S; AL=NameAlph\
+a; FS=40)
+/Ctrl_48_17 (CN=Z_H1P_Sold To Addr Line 1; CI=6; SI=18; TP=RV; DT=S; AL=RptVarObj; FS\
+=41)
+/Ctrl_49_17 (CN=Z_H1P_Ship To Addr Line 1; CI=17; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_50_17 (CN=Z_H1P_Ship To Addr Line 2; CI=18; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_51_17 (CN=Z_H1P_Sold To Addr Line 2; CI=8; SI=18; TP=RV; DT=S; AL=RptVarObj; FS\
+=41)
+/Ctrl_52_17 (CN=Z_H1P_Ship To Addr Line 3; CI=19; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_53_17 (CN=Z_H1P_Sold To Addr Line 3; CI=9; SI=18; TP=RV; DT=S; AL=RptVarObj; FS\
+=41)
+/Ctrl_54_17 (CN=Z_H1P_Ship To Addr Line 4; CI=20; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_55_17 (CN=Z_H1P_Sold To Addr Line 4; CI=10; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_56_17 (CN=Z_H1P_Sold To Addr Line 5; CI=11; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_57_17 (CN=Z_H1P_Ship To Addr Line 5; CI=21; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_58_17 (CN=Z_H1P_Sold To Addr Line 6; CI=12; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_59_17 (CN=Z_H1P_Ship To Addr Line 6; CI=22; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_60_17 (CN=Z_H1P_Sold To Addr Line 7; CI=13; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_61_17 (CN=Z_H1P_Ship To Addr Line 7; CI=23; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_62_17 (CN=Z_H1P_Ship To Addr Line 8; CI=24; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_63_17 (CN=Z_H1P_Sold To Addr Line 8; CI=14; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_64_17 (CN=Z_H1P_Sold To Addr Line 9; CI=15; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_65_17 (CN=Z_H1P_Ship To Addr Line 9; CI=25; SI=18; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_66_17 (CN=Z_H1P_MSG - Global Message; CI=95; SI=18; TP=RV; DT=S; AL=RptVarObj; \
+FS=180)
+/Ctrl_67_17 (CN=Estimated          ; CI=93; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=19\
+)
+/Ctrl_68_17 (CN= ; CI=98; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_69_17 (CN= ; CI=103; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=16)
+/Ctrl_70_17 (CN=Product Code          ; CI=87; SI=18; TP=RC; DT=S; AL=RptConstObj; FS\
+=22)
+/Ctrl_71_17 (CN=Ship Date          ; CI=94; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=19\
+)
+/Ctrl_72_17 (CN=Amount          ; CI=92; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=16)
+/Ctrl_73_17 (CN=Description          ; CI=88; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=\
+21)
+/Ctrl_74_17 (CN=Quantity          ; CI=89; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=18)
+/Ctrl_75_17 (CN=U/Price          ; CI=91; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=17)
+/Ctrl_76_17 (CN=UM               ; CI=90; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=17)
+/Ctrl_77_17 (CN=Z_Spacer_Line_Under; CI=86; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=145)
+/Sect_18 (SN=Z_DLINK_Header_Subsequent_Page;TP=GRP|CD;BV=None;SI=19;PI=0)
+/Ctrl_0_18 (CN=Z_HSP_ReportTitle; CI=2; SI=19; TP=RV; DT=S; AL=RptVarObj; FS=30)
+/Ctrl_1_18 (CN=Z_HSP_ADDITIONAL_HDR_TEXT; CI=69; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=20)
+/Ctrl_2_18 (CN=Z_HSP_Sold To Addr Alpha Name; CI=5; SI=19; TP=RV; DT=S; AL=NameAlpha\
+; FS=40)
+/Ctrl_3_18 (CN=Sold To:                    ; CI=4; SI=19; TP=RC; DT=S; AL=RptConstOb\
+j; FS=28)
+/Ctrl_4_18 (CN=Page:                    ; CI=34; SI=19; TP=RC; DT=S; AL=RptConstObj;\
+ FS=25)
+/Ctrl_5_18 (CN=Z_HSP_PageNumber; CI=35; SI=19; TP=RV; DT=N; AL=RptVarObj; FS=5)
+/Ctrl_6_18 (CN=Z_HSP_PageNumberMax; CI=36; SI=19; TP=RV; DT=N; AL=RptVarObj; FS=5)
+/Ctrl_7_18 (CN=Z_HSP_Bill To Addr Alpha Name; CI=16; SI=19; TP=RV; DT=S; AL=NameAlph\
+a; FS=40)
+/Ctrl_8_18 (CN=Bill To:                    ; CI=15; SI=19; TP=RC; DT=S; AL=RptConstO\
+bj; FS=28)
+/Ctrl_9_18 (CN=Date:                    ; CI=37; SI=19; TP=RC; DT=S; AL=RptConstObj;\
+ FS=25)
+/Ctrl_10_18 (CN=Z_HSP_Invoice_Date 01; CI=38; SI=19; TP=RV; DT=D; AL=Date01; FS=6)
+/Ctrl_11_18 (CN=Z_HSP_Bill To Addr Line 1; CI=17; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_12_18 (CN=Z_HSP_FMT_Invoice_Date 01; CI=72; SI=19; TP=RV; DT=S; AL=AlphaSpecDat\
+a10; FS=10)
+/Ctrl_13_18 (CN=Z_HSP_Sold To Addr Line 1; CI=6; SI=19; TP=RV; DT=S; AL=RptVarObj; FS\
+=41)
+/Ctrl_14_18 (CN=Z_HSP_Sold To Addr Line 2; CI=7; SI=19; TP=RV; DT=S; AL=RptVarObj; FS\
+=41)
+/Ctrl_15_18 (CN=Z_HSP_Bill To Addr Line 2; CI=18; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_16_18 (CN=Z_HSP_CustomerNo_Sold To; CI=40; SI=19; TP=RV; DT=N; AL=AddressNumber\
+; FS=8)
+/Ctrl_17_18 (CN=Cust. No:                    ; CI=39; SI=19; TP=RC; DT=S; AL=RptConst\
+Obj; FS=29)
+/Ctrl_18_18 (CN=Z_HSP_Bill To Addr Line 3; CI=19; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_19_18 (CN=Order No:                    ; CI=41; SI=19; TP=RC; DT=S; AL=RptConst\
+Obj; FS=29)
+/Ctrl_20_18 (CN=Z_HSP_Sold To Addr Line 3; CI=8; SI=19; TP=RV; DT=S; AL=RptVarObj; FS\
+=41)
+/Ctrl_21_18 (CN=Z_HSP_Order Type; CI=42; SI=19; TP=RV; DT=S; AL=OrderType; FS=2)
+/Ctrl_22_18 (CN=Z_HSP_Order Number; CI=43; SI=19; TP=RV; DT=N; AL=DocumentOrderInvoic\
+eE; FS=8)
+/Ctrl_23_18 (CN=Cust. P.O:                    ; CI=44; SI=19; TP=RC; DT=S; AL=RptCons\
+tObj; FS=30)
+/Ctrl_24_18 (CN=Z_HSP_Bill To Addr Line 4; CI=20; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_25_18 (CN=Z_HSP_Customer PO; CI=60; SI=19; TP=RV; DT=S; AL=Reference1; FS=25)
+/Ctrl_26_18 (CN=Z_HSP_Sold To Addr Line 4; CI=9; SI=19; TP=RV; DT=S; AL=RptVarObj; FS\
+=41)
+/Ctrl_27_18 (CN=Credit note:                ; CI=70; SI=19; TP=RC; DT=S; AL=RptConstO\
+bj; FS=28)
+/Ctrl_28_18 (CN=Z_HSP_Invoice_Number; CI=48; SI=19; TP=RV; DT=N; AL=DocVoucherInvoice\
+E; FS=8)
+/Ctrl_29_18 (CN=Z_HSP_Sold To Addr Line 5; CI=10; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_30_18 (CN=Z_HSP_Bill To Addr Line 5; CI=21; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_31_18 (CN=Z_HSP_Invoice_Document Type; CI=47; SI=19; TP=RV; DT=S; AL=DocumentTy\
+pe; FS=2)
+/Ctrl_32_18 (CN=Document:; CI=46; SI=19; TP=RC; DT=S; AL=RptConstObj; FS=28)
+/Ctrl_33_18 (CN=VAT No \(Sold To\):             ; CI=49; SI=19; TP=RC; DT=S; AL=RptCo\
+nstObj; FS=40)
+/Ctrl_34_18 (CN=Z_HSP_Sold To Addr Line 6; CI=11; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_35_18 (CN=Z_HSP_VAT Reference; CI=50; SI=19; TP=RV; DT=S; AL=VAT_Reference; FS=\
+20)
+/Ctrl_36_18 (CN=Z_HSP_Bill To Addr Line 6; CI=22; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_37_18 (CN=Z_HSP_Bill To Addr Line 7; CI=23; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_38_18 (CN=Z_HSP_VAT Reference_SHAN; CI=68; SI=19; TP=RV; DT=S; AL=VAT_Reference\
+; FS=20)
+/Ctrl_39_18 (CN=Z_HSP_Sold To Addr Line 7; CI=12; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_40_18 (CN=VAT No \(Ship To\):             ; CI=67; SI=19; TP=RC; DT=S; AL=RptCo\
+nstObj; FS=40)
+/Ctrl_41_18 (CN=Z_HSP_Bill To Addr Line 8; CI=24; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_42_18 (CN=Z_HSP_Sold To Addr Line 8; CI=13; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_43_18 (CN=Z_HSP_Currency Code; CI=52; SI=19; TP=RV; DT=S; AL=CurrencyCodeFrom; \
+FS=3)
+/Ctrl_44_18 (CN=Currency:                    ; CI=51; SI=19; TP=RC; DT=S; AL=RptConst\
+Obj; FS=29)
+/Ctrl_45_18 (CN=Z_HSP_Sold To Addr Line 9; CI=14; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_46_18 (CN=Z_HSP_Bill To Addr Line 9; CI=25; SI=19; TP=RV; DT=S; AL=RptVarObj; F\
+S=41)
+/Ctrl_47_18 (CN=Z_HSP_Branch/Plant_L; CI=65; SI=19; TP=RV; DT=S; AL=AlphaSpecData12; \
+FS=12)
+/Ctrl_48_18 (CN=B/P:                    ; CI=53; SI=19; TP=RC; DT=S; AL=RptConstObj; \
+FS=24)
+/Ctrl_49_18 (CN=Z_HSP_Branch/Plant; CI=54; SI=19; TP=RV; DT=S; AL=CostCenter; FS=12)
+/Ctrl_50_18 (CN=Channel:                    ; CI=55; SI=19; TP=RC; DT=S; AL=RptConstO\
+bj; FS=28)
+/Ctrl_51_18 (CN=Z_HSP_Zone Number; CI=58; SI=19; TP=RV; DT=S; AL=ZoneNumber; FS=3)
+/Ctrl_52_18 (CN=Z_HSP_SpacerEstDate; CI=75; SI=19; TP=RV; DT=S; AL=RptVarObj; FS=1)
+/Ctrl_53_18 (CN=Estimated Delivery Date:      ; CI=74; SI=19; TP=RC; DT=S; AL=RptCons\
+tObj; FS=39)
+/Ctrl_54_18 (CN=Z_HSP_FMT_EstDelv_Date 01; CI=73; SI=19; TP=RV; DT=S; AL=AlphaSpecDat\
+a10; FS=10)
+/Ctrl_55_18 (CN=Z_HSP_MSG - Global Message; CI=63; SI=19; TP=RV; DT=S; AL=RptVarObj; \
+FS=180)
+/Ctrl_56_18 (CN=Estimated; CI=61; SI=19; TP=RC; DT=S; AL=RptConstObj; FS=19)
+/Ctrl_57_18 (CN= ; CI=71; SI=19; TP=RC; DT=S; AL=RptConstObj; FS=15)
+/Ctrl_58_18 (CN= ; CI=66; SI=19; TP=RC; DT=S; AL=RptConstObj; FS=1)
+/Ctrl_59_18 (CN=U/Price          ; CI=30; SI=19; TP=RC; DT=S; AL=RptConstObj; FS=17)
+/Ctrl_60_18 (CN=Quantity          ; CI=29; SI=19; TP=RC; DT=S; AL=RptConstObj; FS=18)
+/Ctrl_61_18 (CN=Description          ; CI=28; SI=19; TP=RC; DT=S; AL=RptConstObj; FS=\
+21)
+/Ctrl_62_18 (CN=Amount          ; CI=31; SI=19; TP=RC; DT=S; AL=RptConstObj; FS=16)
+/Ctrl_63_18 (CN=Product Code          ; CI=27; SI=19; TP=RC; DT=S; AL=RptConstObj; FS\
+=22)
+/Ctrl_64_18 (CN=UM              ; CI=62; SI=19; TP=RC; DT=S; AL=RptConstObj; FS=16)
+/Ctrl_65_18 (CN=Ship Date; CI=32; SI=19; TP=RC; DT=S; AL=RptConstObj; FS=19)
+/Ctrl_66_18 (CN=Z_Spacer_Line_Under; CI=33; SI=19; TP=RV; DT=S; AL=RptVarObj; FS=145)
+/Sect_19 (SN=Z_DLINK_Detail_Line;TP=GRP|CD;BV=None;SI=20;PI=0)
+/Ctrl_0_19 (CN=Z_DTL_ProductCode_Line Type De; CI=4; SI=20; TP=RV; DT=S; AL=Descript\
+LineTypeLine; FS=30)
+/Ctrl_1_19 (CN=Z_DTL_Description 2; CI=6; SI=20; TP=RV; DT=S; AL=DescriptionLine2; F\
+S=35)
+/Ctrl_2_19 (CN=Z_DTL_UOM_U/M; CI=8; SI=20; TP=RV; DT=S; AL=UnitOfMeasureAsInput; FS=\
+2)
+/Ctrl_3_19 (CN=Z_DTL_Quantity_Quantity Shippe; CI=10; SI=20; TP=RV; DT=N; AL=UnitsQu\
+antityShipped; FS=12)
+/Ctrl_4_19 (CN=Z_DTL_Unit Price; CI=12; SI=20; TP=RV; DT=N; AL=AmtPricePerUnit2; FS=\
+15)
+/Ctrl_5_19 (CN=Z_DTL_Amount_Extended Price; CI=14; SI=20; TP=RV; DT=N; AL=AmountExte\
+ndedPrice; FS=15)
+/Ctrl_6_19 (CN=Z_DTL_EstimatedShipDate_Date 0; CI=16; SI=20; TP=RV; DT=D; AL=Date01;\
+ FS=6)
+/Ctrl_7_19 (CN=Z_DTL_UOM_U/M_TRANSLATED; CI=24; SI=20; TP=RV; DT=S; AL=UnitOfMeasure\
+AsInput; FS=5)
+/Ctrl_8_19 (CN=Z_DTL_FMT_EstimatedShipDate_Da; CI=23; SI=20; TP=RV; DT=S; AL=AlphaSp\
+ecData10; FS=10)
+/Ctrl_9_19 (CN=Z_DTL_CountryOfOrigin_Sales Ca; CI=18; SI=20; TP=RV; DT=S; AL=SalesRe\
+portingCode4; FS=3)
+/Ctrl_10_19 (CN=Z_DTL_Description 1; CI=20; SI=20; TP=RV; DT=S; AL=DescriptionLine2; \
+FS=35)
+/Ctrl_11_19 (CN=Z_DTL_Reference 2; CI=22; SI=20; TP=RV; DT=S; AL=Reference2Vendor; FS\
+=25)
+/Ctrl_12_19 (CN=Country of Origin:          ; CI=17; SI=20; TP=RC; DT=S; AL=SalesRepo\
+rtingCode4; FS=28)
+/Ctrl_13_19 (CN=Description - Sales Category C; CI=19; SI=20; TP=AD; DT=S; AL=Descrip\
+tion; FS=30)
+/Sect_20 (SN=Z_DLINK_Totals;TP=GRP|CD;BV=None;SI=21;PI=0)
+/Ctrl_0_20 (CN=Z_Spacer_Line_Under; CI=3; SI=21; TP=RV; DT=S; AL=RptVarObj; FS=145)
+/Ctrl_1_20 (CN=Z_TOT_GoodsValue_Amount; CI=13; SI=21; TP=RV; DT=N; AL=AmountExtended\
+Price; FS=15)
+/Ctrl_2_20 (CN=Z_TOT_GoodsValue_Currency; CI=9; SI=21; TP=RV; DT=S; AL=CurrencyCodeF\
+rom; FS=3)
+/Ctrl_3_20 (CN=Goods/Services Value:; CI=6; SI=21; TP=RC; DT=S; AL=RptConstObj; FS=4\
+1)
+/Ctrl_4_20 (CN=Total Discount:               ; CI=41; SI=21; TP=RC; DT=S; AL=RptCons\
+tObj; FS=42)
+/Ctrl_5_20 (CN=Z_TOT_TotalDiscount_Currency; CI=42; SI=21; TP=RV; DT=S; AL=CurrencyC\
+odeFrom; FS=3)
+/Ctrl_6_20 (CN=Z_TOT_F4201 TRDJ Transaction D; CI=39; SI=21; TP=RV; DT=D; AL=DateTra\
+nsactionJulian; FS=6)
+/Ctrl_7_20 (CN=Z_TOT_TotalDiscountValue_Amoun; CI=44; SI=21; TP=RV; DT=N; AL=AmountE\
+xtendedPrice; FS=15)
+/Ctrl_8_20 (CN=Z_TOT_SubtotalValue_Amount; CI=45; SI=21; TP=RV; DT=N; AL=AmountExten\
+dedPrice; FS=15)
+/Ctrl_9_20 (CN=Z_TOT_SubTotalValue_Currency; CI=43; SI=21; TP=RV; DT=S; AL=CurrencyC\
+odeFrom; FS=3)
+/Ctrl_10_20 (CN=Subtotal:                     ; CI=40; SI=21; TP=RC; DT=S; AL=RptCons\
+tObj; FS=44)
+/Ctrl_11_20 (CN=Z_TOT_VATTotal_Amount; CI=15; SI=21; TP=RV; DT=N; AL=AmountExtendedPr\
+ice; FS=15)
+/Ctrl_12_20 (CN=VAT Total:                    ; CI=7; SI=21; TP=RC; DT=S; AL=RptConst\
+Obj; FS=43)
+/Ctrl_13_20 (CN=Z_TOT_VATTotal_Currency; CI=11; SI=21; TP=RV; DT=S; AL=CurrencyCodeFr\
+om; FS=3)
+/Ctrl_14_20 (CN=Z_TOT_Std Tax Alt Curr Text Tr; CI=37; SI=21; TP=RV; DT=S; AL=RptVarO\
+bj; FS=1)
+/Ctrl_15_20 (CN=Z_TOT_Std Tax Rate; CI=30; SI=21; TP=RV; DT=S; AL=VideoConstant10A; F\
+S=10)
+/Ctrl_16_20 (CN=Z_TOT_VATTotal_Alt_Amount; CI=34; SI=21; TP=RV; DT=N; AL=AmountExtend\
+edPrice; FS=15)
+/Ctrl_17_20 (CN=Z_TOT_Std Tax Rate Text; CI=35; SI=21; TP=RV; DT=S; AL=RptVarObj; FS=\
+20)
+/Ctrl_18_20 (CN=Z_TOT_Std Tax Alt Curr Text; CI=36; SI=21; TP=RV; DT=S; AL=RptVarObj;\
+ FS=26)
+/Ctrl_19_20 (CN=Z_Spacer_Line_Under; CI=4; SI=21; TP=RV; DT=S; AL=RptVarObj; FS=145)
+/Ctrl_20_20 (CN=Z_TOT_TotalAmount; CI=17; SI=21; TP=RV; DT=N; AL=AmountExtendedPrice;\
+ FS=15)
+/Ctrl_21_20 (CN=Z_TOT_TotalAmount_Currency Cod; CI=19; SI=21; TP=RV; DT=S; AL=Currenc\
+yCodeFrom; FS=3)
+/Ctrl_22_20 (CN=Total Amount:; CI=5; SI=21; TP=RC; DT=S; AL=RptConstObj; FS=32)
+/Ctrl_23_20 (CN=Z_TOT_Payment Terms Desc; CI=24; SI=21; TP=RV; DT=S; AL=Description00\
+1; FS=30)
+/Ctrl_24_20 (CN=Z_TOT_Net Due Date; CI=26; SI=21; TP=RV; DT=D; AL=Date03; FS=6)
+/Ctrl_25_20 (CN=Z_TOT_Split Payment Date; CI=28; SI=21; TP=RV; DT=D; AL=Date04; FS=6)
+/Ctrl_26_20 (CN=Net Due Date:          ; CI=22; SI=21; TP=RC; DT=S; AL=RptConstObj; F\
+S=23)
+/Ctrl_27_20 (CN=Z_TOT_PaymentTermsLit; CI=46; SI=21; TP=RV; DT=S; AL=RptVarObj; FS=25\
+)
+/Ctrl_28_20 (CN=Z_TOT_Net Due Date_Date 01; CI=54; SI=21; TP=RV; DT=S; AL=AlphaSpecDa\
+ta10; FS=10)
+/Ctrl_29_20 (CN=Z_TOT_Split Payment Date_Date ; CI=55; SI=21; TP=RV; DT=S; AL=AlphaSp\
+ecData10; FS=10)
+/Sect_21 (SN=Z_DLINK_Detail_Text;TP=GRP|CD;BV=None;SI=23;PI=0)
+/Ctrl_0_21 (CN=Z_DTT_Generic_Text_Line; CI=1; SI=23; TP=RV; DT=S; AL=RptVarObj; FS=1\
+80)
+/Ctrl_1_21 (CN=Z_DTT_szINMG_Print Message; CI=3; SI=23; TP=RV; DT=S; AL=PrintMessage\
+1; FS=10)
+/Ctrl_2_21 (CN=Z_DTT_cEV01_MSG Detail Message; CI=5; SI=23; TP=RV; DT=S; AL=EverestE\
+ventPoint01; FS=1)
+/Ctrl_3_21 (CN=Z_DTT_cEV01_Assoc Text Detail; CI=7; SI=23; TP=RV; DT=S; AL=EverestEv\
+entPoint01; FS=1)
+/Ctrl_4_21 (CN=Z_DTT_cEV01_MSG Item Notes; CI=9; SI=23; TP=RV; DT=S; AL=EverestEvent\
+Point01; FS=1)
+/Ctrl_5_21 (CN=Z_DTT_cEV01_Config Generic Tex; CI=11; SI=23; TP=RV; DT=S; AL=Everest\
+EventPoint01; FS=1)
+/Ctrl_6_21 (CN=Z_DTT_cEV01_TextTypeCode; CI=13; SI=23; TP=RV; DT=S; AL=EverestEventP\
+oint01; FS=1)
+/Ctrl_7_21 (CN=Z_DTT_mnITM_Item Number \(Short; CI=15; SI=23; TP=RV; DT=N; AL=Identi\
+fierShortItem; FS=8)
+/Ctrl_8_21 (CN=Z_DTT_mnDOCO_Order Number; CI=17; SI=23; TP=RV; DT=N; AL=DocumentOrde\
+rInvoiceE; FS=8)
+/Ctrl_9_21 (CN=Z_DTT_szDCTO_Order Type; CI=19; SI=23; TP=RV; DT=S; AL=OrderType; FS=\
+2)
+/Ctrl_10_21 (CN=Z_DTT_szKCOO_Order Company; CI=21; SI=23; TP=RV; DT=S; AL=CompanyKeyO\
+rderNo; FS=5)
+/Ctrl_11_21 (CN=Z_DTT_mnLNID_Line Number; CI=23; SI=23; TP=RV; DT=N; AL=LineNumber; F\
+S=6)
+/Ctrl_12_21 (CN=Z_DTT_CFGCID_Component ID Numb; CI=25; SI=23; TP=RV; DT=N; AL=Compone\
+ntIDNumber; FS=15)
+/Ctrl_13_21 (CN=Z_DTT_CFGID_Configuration ID N; CI=27; SI=23; TP=RV; DT=N; AL=Configu\
+rationIDNumber; FS=15)
+/Ctrl_14_21 (CN=Z_DTT_cEV01_PayTermsEligibilit; CI=29; SI=23; TP=RV; DT=S; AL=Everest\
+EventPoint01; FS=1)
+/Ctrl_15_21 (CN=Z_DTT_cEV01_PayTermsDiscountEl; CI=32; SI=23; TP=RV; DT=S; AL=Everest\
+EventPoint01; FS=1)
+/Ctrl_16_21 (CN=Z_DTT_szINMG_OrderHeader_Print; CI=34; SI=23; TP=RV; DT=S; AL=PrintMe\
+ssage1; FS=10)
+/Ctrl_17_21 (CN=Z_DTT_cEV01_SOHPrintTextAttach; CI=36; SI=23; TP=RV; DT=S; AL=Everest\
+EventPoint01; FS=1)
+/Ctrl_18_21 (CN=Z_DTT_cEV01_SOHPrintMessageFla; CI=38; SI=23; TP=RV; DT=S; AL=Everest\
+EventPoint01; FS=1)
+/Ctrl_19_21 (CN=Z_DTT_szINMG_CachePreferencePr; CI=40; SI=23; TP=RV; DT=S; AL=PrintMe\
+ssage1; FS=10)
+/Sect_22 (SN=Z_DLINK_Messages;TP=GRP|CD;BV=None;SI=24;PI=0)
+/Ctrl_0_22 (CN=Z_MSG_MSG - Global Message; CI=7; SI=24; TP=RV; DT=S; AL=RptVarObj; F\
+S=180)
+/Ctrl_1_22 (CN=Z_MSG_Spacer1; CI=11; SI=24; TP=RV; DT=S; AL=RptVarObj; FS=30)
+/Ctrl_2_22 (CN=Z_MSG_Ship Custom To Message; CI=6; SI=24; TP=RV; DT=S; AL=RptVarObj;\
+ FS=180)
+/Ctrl_3_22 (CN=Z_MSG_Spacer2; CI=12; SI=24; TP=RV; DT=S; AL=RptVarObj; FS=30)
+/Ctrl_4_22 (CN=Z_MSG_SO Header Attachment; CI=8; SI=24; TP=RV; DT=S; AL=RptVarObj; F\
+S=180)
+/Ctrl_5_22 (CN=Z_MSG_Spacer3; CI=13; SI=24; TP=RV; DT=S; AL=RptVarObj; FS=30)
+/Ctrl_6_22 (CN=Z_MSG_DeliveryInstruct1; CI=3; SI=24; TP=RV; DT=S; AL=RptVarObj; FS=3\
+0)
+/Ctrl_7_22 (CN=Z_MSG_DeliveryInstructions_TXT; CI=2; SI=24; TP=RV; DT=S; AL=RptVarOb\
+j; FS=40)
+/Ctrl_8_22 (CN=Z_MSG_DeliveryInstruct2; CI=4; SI=24; TP=RV; DT=S; AL=RptVarObj; FS=3\
+0)
+/Sect_23 (SN=Z_DLINK_PageThrow;TP=GRP|CD;BV=None;SI=25;PI=0)
+/Sect_24 (SN=Phase 1 - Build Work File;TP=GRP|L1;BV=V4211J;SI=1;PI=0)
+/Ctrl_0_24 (CN=General Error Code WF; CI=4; SI=1; TP=RV; DT=S; AL=ErrorCode; FS=1)
+/Ctrl_1_24 (CN=General Error Msg WF; CI=6; SI=1; TP=RV; DT=S; AL=ErrorMessageKey; FS\
+=4)
+/Ctrl_2_24 (CN=Hold Code \(SH\) WF; CI=8; SI=1; TP=RV; DT=S; AL=HoldValue; FS=2)
+/Ctrl_3_24 (CN=Include Record WF; CI=14; SI=1; TP=RV; DT=S; AL=EverestEventPoint01; \
+FS=1)
+/Ctrl_4_24 (CN=Text Line \(LF\) WF; CI=30; SI=1; TP=RV; DT=S; AL=EverestEventPoint02\
+; FS=1)
+/Ctrl_5_24 (CN=Inventory Interface \(LF\) WF; CI=32; SI=1; TP=RV; DT=S; AL=EverestEv\
+entPoint03; FS=1)
+/Ctrl_6_24 (CN=Item Number - Output Format; CI=34; SI=1; TP=RV; DT=S; AL=ItemNoUnkno\
+wnFormat; FS=26)
+/Ctrl_7_24 (CN=Requested Date - Output Format; CI=36; SI=1; TP=RV; DT=D; AL=Date01; \
+FS=6)
+/Ctrl_8_24 (CN=Unit Price - Output Format; CI=42; SI=1; TP=RV; DT=N; AL=AmountField;\
+ FS=15)
+/Ctrl_9_24 (CN=Include in Cash Disc \(LF\) WF; CI=114; SI=1; TP=RV; DT=S; AL=Everest\
+EventPoint08; FS=1)
+/Ctrl_10_24 (CN=First Time Thru SW WF; CI=62; SI=1; TP=RV; DT=S; AL=EverestEventPoint\
+06; FS=1)
+/Ctrl_11_24 (CN=Currency Conv. Reqd WF; CI=60; SI=1; TP=RV; DT=S; AL=EverestEventPoin\
+t05; FS=1)
+/Ctrl_12_24 (CN=Currency Conv. Flag WF; CI=58; SI=1; TP=RV; DT=S; AL=EverestEventPoin\
+t04; FS=1)
+/Ctrl_13_24 (CN=Extended Price - Output Format; CI=48; SI=1; TP=RV; DT=N; AL=AmountFi\
+eld; FS=15)
+/Ctrl_14_24 (CN=Qty Cancelled - Output Format; CI=46; SI=1; TP=RV; DT=N; AL=AmountFie\
+ld; FS=15)
+/Ctrl_15_24 (CN=Extended Cost - Output Format; CI=64; SI=1; TP=RV; DT=N; AL=AmountFie\
+ld; FS=15)
+/Ctrl_16_24 (CN=Qty Backordered - Output Forma; CI=44; SI=1; TP=RV; DT=N; AL=AmountFi\
+eld; FS=15)
+/Ctrl_17_24 (CN=Store Sold To Address Number W; CI=72; SI=1; TP=RV; DT=N; AL=AddNoAlt\
+ernatePayee; FS=8)
+/Ctrl_18_24 (CN=Cust/Vend Item # - Output Form; CI=70; SI=1; TP=RV; DT=S; AL=ItemNoCu\
+stomerVendor; FS=25)
+/Ctrl_19_24 (CN=Invoice Consolidation \(A5\) WF; CI=74; SI=1; TP=RV; DT=S; AL=Everest\
+EventPoint07; FS=1)
+/Ctrl_20_24 (CN=Store Order Number WF; CI=76; SI=1; TP=RV; DT=N; AL=DocumentOrder; FS\
+=8)
+/Ctrl_21_24 (CN=Store Order Type WF; CI=78; SI=1; TP=RV; DT=S; AL=OrderType1; FS=2)
+/Ctrl_22_24 (CN=Store Order Key Coy WF; CI=80; SI=1; TP=RV; DT=S; AL=Company3; FS=5)
+/Ctrl_23_24 (CN=New Invoice Flag WF; CI=82; SI=1; TP=RV; DT=S; AL=EverestEventPoint08\
+; FS=1)
+/Ctrl_24_24 (CN=Change in Pay Terms Flag WF; CI=84; SI=1; TP=RV; DT=S; AL=EverestEven\
+tPoint09; FS=1)
+/Ctrl_25_24 (CN=Sold To Changed Flag WF; CI=86; SI=1; TP=RV; DT=S; AL=EverestEventPoi\
+nt09; FS=1)
+/Ctrl_26_24 (CN=Store Curr Code WF; CI=88; SI=1; TP=RV; DT=S; AL=CurrencyCodeOrigin; \
+FS=3)
+/Ctrl_27_24 (CN=A/R Number Flag WF; CI=90; SI=1; TP=RV; DT=S; AL=EverestEventPoint09;\
+ FS=1)
+/Ctrl_28_24 (CN=Profit Percent - Output Format; CI=66; SI=1; TP=RV; DT=N; AL=Percent0\
+1; FS=24)
+/Ctrl_29_24 (CN=Store Invoice Type WF; CI=94; SI=1; TP=RV; DT=S; AL=OrderType1; FS=2)
+/Ctrl_30_24 (CN=Store Invoice Key Coy WF; CI=96; SI=1; TP=RV; DT=S; AL=Company3; FS=5\
+)
+/Ctrl_31_24 (CN=Store Pay Terms Code WF; CI=98; SI=1; TP=RV; DT=S; AL=PaymentTerms; F\
+S=3)
+/Ctrl_32_24 (CN=Fiscal Year WF; CI=100; SI=1; TP=RV; DT=N; AL=FiscalYear1; FS=2)
+/Ctrl_33_24 (CN=Century WF; CI=102; SI=1; TP=RV; DT=N; AL=Century; FS=2)
+/Ctrl_34_24 (CN=Invoice Date WF; CI=104; SI=1; TP=RV; DT=D; AL=DateDue; FS=6)
+/Ctrl_35_24 (CN=Previous Invoice Num WF; CI=106; SI=1; TP=RV; DT=N; AL=DocumentOrder;\
+ FS=8)
+/Ctrl_36_24 (CN=Previous Doc Type WF; CI=108; SI=1; TP=RV; DT=S; AL=OrderType1; FS=2)
+/Ctrl_37_24 (CN=Previous Doc Key Coy WF; CI=110; SI=1; TP=RV; DT=S; AL=Company3; FS=5\
+)
+/Ctrl_38_24 (CN=Cash Discount WF; CI=112; SI=1; TP=RV; DT=N; AL=AmountAa1; FS=15)
+/Ctrl_39_24 (CN=Store Invoice Number WF; CI=92; SI=1; TP=RV; DT=N; AL=DocumentOrder; \
+FS=8)
+/Ctrl_40_24 (CN=Tax Rate 2 WF; CI=126; SI=1; TP=RV; DT=N; AL=TaxRate2; FS=7)
+/Ctrl_41_24 (CN=Tax Rate 1 WF; CI=124; SI=1; TP=RV; DT=N; AL=TaxRate1; FS=7)
+/Ctrl_42_24 (CN=Amount of Tax WF; CI=120; SI=1; TP=RV; DT=N; AL=AmountAa1; FS=15)
+/Ctrl_43_24 (CN=Discount Available WF; CI=122; SI=1; TP=RV; DT=N; AL=AmountAa2; FS=15\
+)
+/Ctrl_44_24 (CN=Item Grouping WF; CI=118; SI=1; TP=RV; DT=N; AL=IdentifierShortItem; \
+FS=8)
+/Ctrl_45_24 (CN=Tax Net Amount WF; CI=116; SI=1; TP=RV; DT=N; AL=AmountAa2; FS=15)
+/Ctrl_46_24 (CN=Tax Rate 3 WF; CI=128; SI=1; TP=RV; DT=N; AL=TaxRate3; FS=7)
+/Ctrl_47_24 (CN=Tax Rate 4 WF; CI=130; SI=1; TP=RV; DT=N; AL=TaxRate4; FS=7)
+/Ctrl_48_24 (CN=Tax Rate 5 WF; CI=132; SI=1; TP=RV; DT=N; AL=TaxRate5; FS=7)
+/Ctrl_49_24 (CN=Tax Authority 1 WF; CI=134; SI=1; TP=RV; DT=N; AL=TaxAuthority1A; FS=\
+8)
+/Ctrl_50_24 (CN=Tax Authority 2 WF; CI=136; SI=1; TP=RV; DT=N; AL=TaxAuthority2; FS=8\
+)
+/Ctrl_51_24 (CN=Tax Authority 3 WF; CI=138; SI=1; TP=RV; DT=N; AL=TaxAuthority3; FS=8\
+)
+/Ctrl_52_24 (CN=Tax Authority 4 WF; CI=140; SI=1; TP=RV; DT=N; AL=TaxAuthority4; FS=8\
+)
+/Ctrl_53_24 (CN=Tax Authority 5 WF; CI=142; SI=1; TP=RV; DT=N; AL=TaxAuthority5; FS=8\
+)
+/Ctrl_54_24 (CN=Tax Calc Method 2 WF; CI=144; SI=1; TP=RV; DT=S; AL=TaxCalcMethod2; F\
+S=1)
+/Ctrl_55_24 (CN=Tax Type 3 WF; CI=146; SI=1; TP=RV; DT=S; AL=TaxType3; FS=1)
+/Ctrl_56_24 (CN=Tax Type 4 WF; CI=148; SI=1; TP=RV; DT=S; AL=TaxType4; FS=1)
+/Ctrl_57_24 (CN=Tax Type 5 WF; CI=150; SI=1; TP=RV; DT=S; AL=TaxType5; FS=1)
+/Ctrl_58_24 (CN=Factor Type WF; CI=156; SI=1; TP=RV; DT=S; AL=FactorValueType; FS=1)
+/Ctrl_59_24 (CN=Total Area Tax Rate WF; CI=154; SI=1; TP=RV; DT=N; AL=TotalAreaTaxRat\
+e; FS=6)
+/Ctrl_60_24 (CN=Tax Area Desc WF; CI=152; SI=1; TP=RV; DT=S; AL=DescriptionTaxArea; F\
+S=30)
+/Ctrl_61_24 (CN=Payment Terms WF; CI=158; SI=1; TP=RV; DT=S; AL=PaymentTerms; FS=3)
+/Ctrl_62_24 (CN=Suppress Kit Line WF; CI=160; SI=1; TP=RV; DT=S; AL=EverestEventPoint\
+08; FS=1)
+/Ctrl_63_24 (CN=Item Number Used Flag; CI=162; SI=1; TP=RV; DT=S; AL=EverestEventPoin\
+t07; FS=1)
+/Ctrl_64_24 (CN=Unassigned Seqn Invoice No.; CI=164; SI=1; TP=RV; DT=N; AL=CostDocume\
+ntNumber; FS=8)
+/Ctrl_65_24 (CN=Work File Invoice Number; CI=166; SI=1; TP=RV; DT=N; AL=CostDocumentN\
+umber; FS=8)
+/Ctrl_66_24 (CN=Write Ledger Record Y/N WF; CI=168; SI=1; TP=RV; DT=S; AL=EverestEven\
+tPoint07; FS=1)
+/Ctrl_67_24 (CN=EDI - New Header Flag \(wf\); CI=170; SI=1; TP=RV; DT=S; AL=EverestEv\
+entPoint10; FS=1)
+/Ctrl_68_24 (CN=EDI Record Type \(wf\); CI=197; SI=1; TP=RV; DT=S; AL=EDIType; FS=1)
+/Ctrl_69_24 (CN=EDI Record Sequence \(wf\); CI=200; SI=1; TP=RV; DT=N; AL=EDISeq; FS=\
+2)
+/Ctrl_70_24 (CN=EDI Send/Receive Indicator \(wf; CI=203; SI=1; TP=RV; DT=S; AL=EdiSen\
+dRcvIndicator; FS=1)
+/Ctrl_71_24 (CN=F4201:SFXO-Order Suffix \(wf\); CI=246; SI=1; TP=RV; DT=S; AL=OrderSu\
+ffix; FS=3)
+/Ctrl_72_24 (CN=F4201:MCU-Business Unit \(wf\); CI=249; SI=1; TP=RV; DT=S; AL=CostCen\
+ter; FS=12)
+/Ctrl_73_24 (CN=F4201:CO-Company \(wf\); CI=252; SI=1; TP=RV; DT=S; AL=Company; FS=5)
+/Ctrl_74_24 (CN=F4201:OKCO-Original Order Docu; CI=255; SI=1; TP=RV; DT=S; AL=Company\
+KeyOriginal; FS=5)
+/Ctrl_75_24 (CN=F4201:OORN-Original Order Numb; CI=258; SI=1; TP=RV; DT=S; AL=Origina\
+lPoSoNumber; FS=8)
+/Ctrl_76_24 (CN=F4201:OCTO-Original Order Type; CI=261; SI=1; TP=RV; DT=S; AL=Origina\
+lOrderType; FS=2)
+/Ctrl_77_24 (CN=F4201:RKCO-Related Order Key C; CI=264; SI=1; TP=RV; DT=S; AL=Company\
+KeyRelated; FS=5)
+/Ctrl_78_24 (CN=F4201:RORN-Related PO/SO/WO Nu; CI=267; SI=1; TP=RV; DT=S; AL=Related\
+PoSoNumber; FS=8)
+/Ctrl_79_24 (CN=F4201:RCTO-Related PO/SO/WO Or; CI=270; SI=1; TP=RV; DT=S; AL=Related\
+OrderType; FS=2)
+/Ctrl_80_24 (CN=F4201:AN8-Address Number \(wf\); CI=273; SI=1; TP=RV; DT=N; AL=Addres\
+sNumber; FS=8)
+/Ctrl_81_24 (CN=F4201:SHAN-Ship To \(wf\); CI=276; SI=1; TP=RV; DT=N; AL=AddressNumbe\
+rShipTo; FS=8)
+/Ctrl_82_24 (CN=F4201:PA8-Parent Number \(wf\); CI=279; SI=1; TP=RV; DT=N; AL=Address\
+NumberParent; FS=8)
+/Ctrl_83_24 (CN=F4201:DRQJ-Requested \(wf\); CI=282; SI=1; TP=RV; DT=D; AL=DateReques\
+tedJulian; FS=6)
+/Ctrl_84_24 (CN=F4201:TRDJ-Order Date \(wf\); CI=285; SI=1; TP=RV; DT=D; AL=DateTrans\
+actionJulian; FS=6)
+/Ctrl_85_24 (CN=F4201:PDDJ-Promised Delivery \(; CI=288; SI=1; TP=RV; DT=D; AL=Schedu\
+ledPickDate; FS=6)
+/Ctrl_86_24 (CN=F4201:OPDJ-Original Promised D; CI=291; SI=1; TP=RV; DT=D; AL=DateOri\
+ginalPromisde; FS=6)
+/Ctrl_87_24 (CN=F4201:ADDJ-Actual Delivery \(wf; CI=294; SI=1; TP=RV; DT=D; AL=Actual\
+ShipDate; FS=6)
+/Ctrl_88_24 (CN=F4201:CNDJ-Cancel Date \(wf\); CI=297; SI=1; TP=RV; DT=D; AL=CancelDa\
+te; FS=6)
+/Ctrl_89_24 (CN=F4201:PEFJ-Price Effective \(wf; CI=300; SI=1; TP=RV; DT=D; AL=DatePr\
+iceEffectiveDate; FS=6)
+/Ctrl_90_24 (CN=F4201:PPDJ-Promised Pick \(wf\); CI=303; SI=1; TP=RV; DT=D; AL=DatePr\
+omisedShipJu; FS=6)
+/Ctrl_91_24 (CN=F4201:PSDJ-Promised Ship \(wf\); CI=306; SI=1; TP=RV; DT=D; AL=DatePr\
+omisedShipJu; FS=6)
+/Ctrl_92_24 (CN=F4201:VR02-Reference 2 \(wf\); CI=312; SI=1; TP=RV; DT=S; AL=Referenc\
+e2Vendor; FS=25)
+/Ctrl_93_24 (CN=F4201:VR01-Reference \(wf\); CI=309; SI=1; TP=RV; DT=S; AL=Reference1\
+; FS=25)
+/Ctrl_94_24 (CN=F4201:DEL1-Delivery Instructio; CI=315; SI=1; TP=RV; DT=S; AL=Deliver\
+yInstructLine1; FS=30)
+/Ctrl_95_24 (CN=F4201:DEL2-Delivery Instructio; CI=318; SI=1; TP=RV; DT=S; AL=Deliver\
+yInstructLine2; FS=30)
+/Ctrl_96_24 (CN=F4201:INMG-Print Message \(wf\); CI=321; SI=1; TP=RV; DT=S; AL=PrintM\
+essage1; FS=10)
+/Ctrl_97_24 (CN=F4201:PTC-Payment Terms \(wf\); CI=329; SI=1; TP=RV; DT=S; AL=Payment\
+TermsCode01; FS=3)
+/Ctrl_98_24 (CN=F4201:RYIN-Payment Instrument ; CI=332; SI=1; TP=RV; DT=S; AL=Payment\
+InstrumentA; FS=1)
+/Ctrl_99_24 (CN=F4201:ASN-Adjustment Schedule ; CI=335; SI=1; TP=RV; DT=S; AL=PriceAd\
+justmentScheduleN; FS=8)
+/Ctrl_100_24 (CN=F4201:PRGP-Pricing Group \(wf\); CI=338; SI=1; TP=RV; DT=S; AL=Pricin\
+gGroup; FS=8)
+/Ctrl_101_24 (CN=F4201:TRDC-Trade Discount \(wf\); CI=341; SI=1; TP=RV; DT=N; AL=Disco\
+untTrade; FS=7)
+/Ctrl_102_24 (CN=F4201:PCRT-Retainage % \(wf\); CI=344; SI=1; TP=RV; DT=N; AL=PercentR\
+etainage1; FS=7)
+/Ctrl_103_24 (CN=F4201:TXA1-Tax Rate/Area \(wf\); CI=347; SI=1; TP=RV; DT=S; AL=TaxAre\
+a1; FS=10)
+/Ctrl_104_24 (CN=F4201:EXR1-Tax Expl Code \(wf\); CI=350; SI=1; TP=RV; DT=S; AL=TaxExp\
+lanationCode1; FS=2)
+/Ctrl_105_24 (CN=F4201:TXCT-Certificate \(wf\); CI=353; SI=1; TP=RV; DT=S; AL=Certific\
+ateTaxExempt; FS=20)
+/Ctrl_106_24 (CN=F4201:ATXT-Associated Text \(wf; CI=356; SI=1; TP=RV; DT=S; AL=Associ\
+atedText; FS=1)
+/Ctrl_107_24 (CN=F4201:PRIO-Priority Processing; CI=359; SI=1; TP=RV; DT=S; AL=Priorit\
+yProcessing; FS=1)
+/Ctrl_108_24 (CN=F4201:BACK-Backorders Allowed ; CI=362; SI=1; TP=RV; DT=S; AL=Backord\
+ersAllowedYN; FS=1)
+/Ctrl_109_24 (CN=F4201:SBAL-Substitutes Allowed; CI=365; SI=1; TP=RV; DT=S; AL=Substit\
+utesAllowedYN; FS=1)
+/Ctrl_110_24 (CN=F4201:HOLD-Hold Orders Code \(w; CI=371; SI=1; TP=RV; DT=S; AL=HoldOr\
+dersCode; FS=2)
+/Ctrl_111_24 (CN=F4201:PLST-Price Pick List \(Y/; CI=374; SI=1; TP=RV; DT=S; AL=PriceP\
+ickListYN; FS=1)
+/Ctrl_112_24 (CN=F4201:INVC-Invoice Copies \(wf\); CI=377; SI=1; TP=RV; DT=N; AL=Invoi\
+ceCopies; FS=2)
+/Ctrl_113_24 (CN=F4201:NTR-Nature of Transactio; CI=380; SI=1; TP=RV; DT=S; AL=NatureO\
+fTransaction; FS=2)
+/Ctrl_114_24 (CN=F4201:ANBY-Buyer Number \(wf\); CI=383; SI=1; TP=RV; DT=N; AL=BuyerNu\
+mber; FS=8)
+/Ctrl_115_24 (CN=F4201:CARS-Carrier Number \(wf\); CI=386; SI=1; TP=RV; DT=N; AL=Carri\
+er; FS=8)
+/Ctrl_116_24 (CN=F4201:MOT-Mode of Trn \(wf\); CI=389; SI=1; TP=RV; DT=S; AL=ModeOfTra\
+nsport; FS=3)
+/Ctrl_117_24 (CN=F4201:COT-Conditions of Transp; CI=392; SI=1; TP=RV; DT=S; AL=Conditi\
+onsOfTransport; FS=3)
+/Ctrl_118_24 (CN=F4201:ROUT-Route Code \(wf\); CI=395; SI=1; TP=RV; DT=S; AL=RouteCode\
+; FS=3)
+/Ctrl_119_24 (CN=F4201:STOP-Stop Code \(wf\); CI=398; SI=1; TP=RV; DT=S; AL=StopCode; \
+FS=3)
+/Ctrl_120_24 (CN=F4201:ZON-Zone Number \(wf\); CI=401; SI=1; TP=RV; DT=S; AL=ZoneNumbe\
+r; FS=3)
+/Ctrl_121_24 (CN=F4201:CNID-Container I.D. \(wf\); CI=404; SI=1; TP=RV; DT=S; AL=Conta\
+inerID; FS=20)
+/Ctrl_122_24 (CN=F4201:FRTH-Freight Handling Co; CI=407; SI=1; TP=RV; DT=S; AL=Freight\
+HandlingCode; FS=3)
+/Ctrl_123_24 (CN=F4201:AFT-Apply Freight \(Y/N\) ; CI=410; SI=1; TP=RV; DT=S; AL=Apply\
+FreightYN; FS=1)
+/Ctrl_124_24 (CN=F4201:FUF1-AIA Document \(wf\); CI=413; SI=1; TP=RV; DT=S; AL=ApplyFr\
+eight; FS=1)
+/Ctrl_125_24 (CN=F4201:FRTC-Freight Calculated ; CI=416; SI=1; TP=RV; DT=S; AL=Freight\
+CalculatedYN; FS=1)
+/Ctrl_126_24 (CN=F4201:MORD-Merge Orders \(Y/N\) ; CI=419; SI=1; TP=RV; DT=S; AL=Merge\
+OrdersYN; FS=1)
+/Ctrl_127_24 (CN=F4201:CMC1-Commission Code 1 \(; CI=422; SI=1; TP=RV; DT=N; AL=Commis\
+sionCode1; FS=8)
+/Ctrl_128_24 (CN=F4201:CMR1-Commission Rate 1 \(; CI=425; SI=1; TP=RV; DT=N; AL=RateCo\
+mmission1; FS=7)
+/Ctrl_129_24 (CN=F4201:CMC2-Commission Code 2 \(; CI=428; SI=1; TP=RV; DT=N; AL=Commis\
+sionCode2; FS=8)
+/Ctrl_130_24 (CN=F4201:CMR2-Commission Rate 2 \(; CI=431; SI=1; TP=RV; DT=N; AL=RateCo\
+mmission2; FS=7)
+/Ctrl_131_24 (CN=F4201:RCD-Reason Code \(wf\); CI=434; SI=1; TP=RV; DT=S; AL=ReasonCod\
+e; FS=3)
+/Ctrl_132_24 (CN=F4201:FUF2-Post Quantities \(wf; CI=437; SI=1; TP=RV; DT=S; AL=PostQu\
+antities; FS=1)
+/Ctrl_133_24 (CN=F4201:OTOT-Order Gross Amount ; CI=440; SI=1; TP=RV; DT=N; AL=AmountO\
+rderGross; FS=15)
+/Ctrl_134_24 (CN=F4201:TOTC-Total Cost \(wf\); CI=443; SI=1; TP=RV; DT=N; AL=AmountTot\
+alCost; FS=15)
+/Ctrl_135_24 (CN=F4201:WUMD-Weight Display U/M ; CI=446; SI=1; TP=RV; DT=S; AL=UnitOfM\
+easureWhtDisp; FS=2)
+/Ctrl_136_24 (CN=F4201:VUMD-Volume Display U/M ; CI=449; SI=1; TP=RV; DT=S; AL=UnitOfM\
+easureVolDisp; FS=2)
+/Ctrl_137_24 (CN=F4201:AUTN-Authorization Numbe; CI=452; SI=1; TP=RV; DT=S; AL=Authori\
+zationNoCredit; FS=10)
+/Ctrl_138_24 (CN=F4201:CACT-Credit/Bank Account; CI=455; SI=1; TP=RV; DT=S; AL=AcctNoC\
+rBank; FS=25)
+/Ctrl_139_24 (CN=F4201:CEXP-Expired Date Credit; CI=458; SI=1; TP=RV; DT=D; AL=DateExp\
+ired; FS=6)
+/Ctrl_140_24 (CN=F4201:SBLI-Subledger Inactive ; CI=461; SI=1; TP=RV; DT=S; AL=Subledg\
+erInactiveCode; FS=1)
+/Ctrl_141_24 (CN=F4201:CRMD-Send Method \(wf\); CI=464; SI=1; TP=RV; DT=S; AL=Correspo\
+ndenceMethod; FS=1)
+/Ctrl_142_24 (CN=F4201:CRRM-Currency Mode \(wf\); CI=467; SI=1; TP=RV; DT=S; AL=Curren\
+cyMode; FS=1)
+/Ctrl_143_24 (CN=F4201:CRCD-Currency Code \(wf\); CI=470; SI=1; TP=RV; DT=S; AL=Curren\
+cyCodeFrom; FS=3)
+/Ctrl_144_24 (CN=F4201:CRR-Exchange Rate \(wf\); CI=473; SI=1; TP=RV; DT=N; AL=Currenc\
+yConverRateOv; FS=15)
+/Ctrl_145_24 (CN=F4201:LNGP-Language \(wf\); CI=476; SI=1; TP=RV; DT=S; AL=LanguagePre\
+ference; FS=2)
+/Ctrl_146_24 (CN=F4201:FAP-Foreign Open Amount ; CI=479; SI=1; TP=RV; DT=N; AL=AmountF\
+oreignOpen; FS=15)
+/Ctrl_147_24 (CN=F4201:FCST-Foreign Total Cost ; CI=482; SI=1; TP=RV; DT=N; AL=AmountF\
+oreignTotalC; FS=15)
+/Ctrl_148_24 (CN=F4201:ORBY-Ordered By \(wf\); CI=485; SI=1; TP=RV; DT=S; AL=OrderedBy\
+; FS=10)
+/Ctrl_149_24 (CN=F4201:TKBY-Order Taken By \(wf\); CI=488; SI=1; TP=RV; DT=S; AL=Order\
+TakenBy; FS=10)
+/Ctrl_150_24 (CN=F4201:URCD-User Reserved Code ; CI=491; SI=1; TP=RV; DT=S; AL=UserRes\
+ervedCode; FS=2)
+/Ctrl_151_24 (CN=F4201:URDT-User Reserved Date ; CI=494; SI=1; TP=RV; DT=D; AL=UserRes\
+ervedDate; FS=6)
+/Ctrl_152_24 (CN=F4201:URAT-User Reserved Amoun; CI=497; SI=1; TP=RV; DT=N; AL=UserRes\
+ervedAmount; FS=15)
+/Ctrl_153_24 (CN=F4201:URAB-User Reserved Numbe; CI=500; SI=1; TP=RV; DT=N; AL=UserRes\
+ervedNumber; FS=8)
+/Ctrl_154_24 (CN=F4201:URRF-User Reserved Refer; CI=503; SI=1; TP=RV; DT=S; AL=UserRes\
+ervedReference; FS=15)
+/Ctrl_155_24 (CN=PTD:Description-Payment Terms ; CI=506; SI=1; TP=RV; DT=S; AL=Descrip\
+tPaymentTerms; FS=30)
+/Ctrl_156_24 (CN=DCP:Discount %-Payment Terms \(; CI=509; SI=1; TP=RV; DT=N; AL=Discou\
+ntPaymentTerms; FS=5)
+/Ctrl_157_24 (CN=DCD:Discount Days \(wf\); CI=512; SI=1; TP=RV; DT=N; AL=DiscountDays;\
+ FS=3)
+/Ctrl_158_24 (CN=NSP:Number of Split Payments \(; CI=515; SI=1; TP=RV; DT=N; AL=Number\
+OfSplitPayments; FS=2)
+/Ctrl_159_24 (CN=DTPA:Days To Pay Aging \(wf\); CI=518; SI=1; TP=RV; DT=N; AL=DaysToPa\
+yAging; FS=3)
+/Ctrl_160_24 (CN=DSVJ:Service/Tax Date \(wf\); CI=521; SI=1; TP=RV; DT=D; AL=DateServi\
+ceCurrency; FS=6)
+/Ctrl_161_24 (CN=DDJ:Net Due Date \(wf\); CI=524; SI=1; TP=RV; DT=D; AL=DateDueJulian;\
+ FS=6)
+/Ctrl_162_24 (CN=DDU:Due Date \(wf\); CI=527; SI=1; TP=RV; DT=D; AL=DATE_DUE_1; FS=6)
+/Ctrl_163_24 (CN=NDTP:Net Days to Pay \(wf\); CI=581; SI=1; TP=RV; DT=N; AL=NetDaysToP\
+ay; FS=3)
+/Ctrl_164_24 (CN=DSCT:Discount Amount \(wf\); CI=578; SI=1; TP=RV; DT=N; AL=AmtDiscoun\
+tTotal; FS=15)
+/Ctrl_165_24 (CN=SQOR - CONS SecondaryQtyShippe; CI=813; SI=1; TP=RV; DT=N; AL=UnitsSe\
+condaryQtyOr; FS=15)
+/Ctrl_166_24 (CN=TAX4:Sales Tax Total 4 \(wf\); CI=539; SI=1; TP=RV; DT=N; AL=AmtSales\
+TaxTotal4; FS=15)
+/Ctrl_167_24 (CN=TAX5:Sales Tax Total 5 \(wf\); CI=542; SI=1; TP=RV; DT=N; AL=AmtSales\
+TaxTotal5; FS=15)
+/Ctrl_168_24 (CN=TAX3:Sales Tax Total 3 \(wf\); CI=536; SI=1; TP=RV; DT=N; AL=AmtSales\
+TaxTotal3; FS=15)
+/Ctrl_169_24 (CN=TAXT:Sales Tax Total 1 \(wf\); CI=530; SI=1; TP=RV; DT=N; AL=AmtSales\
+TaxTotal; FS=15)
+/Ctrl_170_24 (CN=TAX2:Sales Tax Total 2 \(wf\); CI=533; SI=1; TP=RV; DT=N; AL=AmtSales\
+TaxTotal2; FS=15)
+/Ctrl_171_24 (CN=As If Extended Price \(wf\); CI=759; SI=1; TP=RV; DT=N; AL=AsIfExtend\
+edPrice; FS=15)
+/Ctrl_172_24 (CN=; CI=797; SI=1; TP=RV; DT=N; AL=AsIfAmount-SalesTaxTotal4; FS=15)
+/Ctrl_173_24 (CN=ATXN:Non-Taxable Amount \(wf\); CI=560; SI=1; TP=RV; DT=N; AL=AmountT\
+axExempt; FS=15)
+/Ctrl_174_24 (CN=VINV:Supplier Invoice Number \(; CI=545; SI=1; TP=RV; DT=S; AL=Vendor\
+InvoiceNumber; FS=25)
+/Ctrl_175_24 (CN=OSEQ-Sequence Number; CI=593; SI=1; TP=RV; DT=N; AL=SequenceNumber; F\
+S=4)
+/Ctrl_176_24 (CN=DETD-Detached Adjustments Sum\(; CI=596; SI=1; TP=RV; DT=N; AL=Detach\
+edAdjDomestic; FS=15)
+/Ctrl_177_24 (CN=DETF-Foreign Detached Adjs Sum; CI=599; SI=1; TP=RV; DT=N; AL=Detache\
+dAdjForeign; FS=15)
+/Ctrl_178_24 (CN=; CI=761; SI=1; TP=RV; DT=N; AL=AsIfListPrice; FS=15)
+/Ctrl_179_24 (CN=; CI=799; SI=1; TP=RV; DT=N; AL=AsIfAmount-SalesTaxTotal5; FS=15)
+/Ctrl_180_24 (CN=Foreign List Price; CI=605; SI=1; TP=RV; DT=N; AL=AmountListPriceFore\
+ign; FS=15)
+/Ctrl_181_24 (CN=EV10-Print Price Adjustments\(w; CI=602; SI=1; TP=RV; DT=S; AL=Everes\
+tEventPoint10; FS=1)
+/Ctrl_182_24 (CN=DSPA-Adjustment on Invoice; CI=611; SI=1; TP=RV; DT=S; AL=PrintAdjust\
+mentsonInvoic; FS=1)
+/Ctrl_183_24 (CN=GENLNG-idF40UI74hRequest; CI=614; SI=1; TP=RV; DT=N; AL=GenericLong; \
+FS=11)
+/Ctrl_184_24 (CN=List Price; CI=608; SI=1; TP=RV; DT=N; AL=AmtListPricePerUnit; FS=15)
+/Ctrl_185_24 (CN=; CI=763; SI=1; TP=RV; DT=N; AL=AsIfTotalTaxRate; FS=6)
+/Ctrl_186_24 (CN=CONV-Trans To Prim Conv Factor; CI=632; SI=1; TP=RV; DT=N; AL=Convers\
+ionFactor; FS=15)
+/Ctrl_187_24 (CN=TFLA-Std UOM Conversion; CI=629; SI=1; TP=RV; DT=S; AL=TemporaryItemF\
+lashMessag; FS=2)
+/Ctrl_188_24 (CN=Blank String; CI=626; SI=1; TP=RV; DT=S; AL=UnitOfMeasurePurchas; FS=\
+2)
+/Ctrl_189_24 (CN=Zero Numeric; CI=617; SI=1; TP=RV; DT=N; AL=MathNumeric06; FS=15)
+/Ctrl_190_24 (CN=Det Adj Item Grouping; CI=644; SI=1; TP=RV; DT=N; AL=MathNumeric01; F\
+S=8)
+/Ctrl_191_24 (CN=PA03-Exclude PTC Discount; CI=641; SI=1; TP=RV; DT=S; AL=PriceAdjustm\
+entCode03; FS=1)
+/Ctrl_192_24 (CN=TXB-Adjustment Taxable YN; CI=638; SI=1; TP=RV; DT=S; AL=AdjustmentTa\
+xable; FS=1)
+/Ctrl_193_24 (CN=Blank Character; CI=620; SI=1; TP=RV; DT=S; AL=EverestEventPoint08; F\
+S=1)
+/Ctrl_194_24 (CN=CNV3- Pricing to Primary Conv ; CI=635; SI=1; TP=RV; DT=N; AL=Convers\
+ionFactorPrice; FS=15)
+/Ctrl_195_24 (CN=; CI=765; SI=1; TP=RV; DT=N; AL=AsIfTaxAuthority1; FS=8)
+/Ctrl_196_24 (CN=; CI=785; SI=1; TP=RV; DT=N; AL=AsIfAmount-Taxable; FS=15)
+/Ctrl_197_24 (CN=KCO - CONS Document Company\(wf; CI=659; SI=1; TP=RV; DT=S; AL=Compan\
+yKey; FS=5)
+/Ctrl_198_24 (CN=LNID - CONS Line Number\(wf\); CI=742; SI=1; TP=RV; DT=N; AL=LineNumb\
+er; FS=6)
+/Ctrl_199_24 (CN=DOCO - CONS Order Number \(wf\); CI=748; SI=1; TP=RV; DT=N; AL=Docume\
+ntOrderInvoiceE; FS=8)
+/Ctrl_200_24 (CN=DCTO - CONS Order Type \(wf\); CI=751; SI=1; TP=RV; DT=S; AL=OrderTyp\
+e; FS=2)
+/Ctrl_201_24 (CN=KCOO - CONS Order Company \(wf\); CI=754; SI=1; TP=RV; DT=S; AL=Compa\
+nyKeyOrderNo; FS=5)
+/Ctrl_202_24 (CN=; CI=801; SI=1; TP=RV; DT=S; AL=AsIfTaxType1; FS=1)
+/Ctrl_203_24 (CN=OSEQ - CONS Sequence Number\(wf; CI=757; SI=1; TP=RV; DT=N; AL=Sequen\
+ceNumber; FS=4)
+/Ctrl_204_24 (CN=DCT- CONS Document Type\(wf\); CI=656; SI=1; TP=RV; DT=S; AL=Document\
+Type; FS=2)
+/Ctrl_205_24 (CN=DOC - CONS Document Number\(wf\); CI=653; SI=1; TP=RV; DT=N; AL=DocVo\
+ucherInvoiceE; FS=8)
+/Ctrl_206_24 (CN=As If Ptr To Tax Group Array; CI=807; SI=1; TP=RV; DT=N; AL=GenericLo\
+ng; FS=11)
+/Ctrl_207_24 (CN=As If Amount - Tax \(wf\); CI=787; SI=1; TP=RV; DT=N; AL=AsIfAmount-T\
+ax; FS=15)
+/Ctrl_208_24 (CN=; CI=767; SI=1; TP=RV; DT=N; AL=AsIfTaxAuthority2; FS=8)
+/Ctrl_209_24 (CN=; CI=803; SI=1; TP=RV; DT=S; AL=AsIfTaxType2; FS=1)
+/Ctrl_210_24 (CN=ECST - CONS Extended Cost\(wf\); CI=680; SI=1; TP=RV; DT=N; AL=Amount\
+ExtendedCost; FS=15)
+/Ctrl_211_24 (CN=AEXP - CONS Extended Price\(wf\); CI=677; SI=1; TP=RV; DT=N; AL=Amoun\
+tExtendedPrice; FS=15)
+/Ctrl_212_24 (CN=SOCN - CONS Quantity Canceled\(; CI=674; SI=1; TP=RV; DT=N; AL=UnitsQ\
+uantityCanceled; FS=15)
+/Ctrl_213_24 (CN=SOQS - CONS Quantity Shipped\(w; CI=668; SI=1; TP=RV; DT=N; AL=UnitsQ\
+uantityShipped; FS=15)
+/Ctrl_214_24 (CN=EV11-Item Line Consolidation \(; CI=662; SI=1; TP=RV; DT=S; AL=Everes\
+tEventPoint11; FS=1)
+/Ctrl_215_24 (CN=As If Ptr To Tax Authority Arr; CI=809; SI=1; TP=RV; DT=N; AL=Generic\
+Long; FS=11)
+/Ctrl_216_24 (CN=SOBK - CONS Quantity Backorder; CI=671; SI=1; TP=RV; DT=N; AL=UnitsQu\
+anBackorHeld; FS=15)
+/Ctrl_217_24 (CN=DRQJ - CONS Requested Date \(wf; CI=665; SI=1; TP=RV; DT=D; AL=DateRe\
+questedJulian; FS=6)
+/Ctrl_218_24 (CN=; CI=769; SI=1; TP=RV; DT=N; AL=AsIfTaxAuthority3; FS=8)
+/Ctrl_219_24 (CN=; CI=789; SI=1; TP=RV; DT=N; AL=AsIfAmount-Discount; FS=15)
+/Ctrl_220_24 (CN=; CI=805; SI=1; TP=RV; DT=S; AL=AsIfTaxType3; FS=1)
+/Ctrl_221_24 (CN=DSCT - CONS Discount Amount\(wf; CI=701; SI=1; TP=RV; DT=N; AL=AmtDis\
+countTotal; FS=15)
+/Ctrl_222_24 (CN=ADSC - CONS Discount Available; CI=698; SI=1; TP=RV; DT=N; AL=AmtDisc\
+ountAvailable; FS=15)
+/Ctrl_223_24 (CN=STAM - CONS Tax Amount \(wf\); CI=695; SI=1; TP=RV; DT=N; AL=AmtTax2;\
+ FS=15)
+/Ctrl_224_24 (CN=TAX1 - CONS Sales Taxable \(wf\); CI=683; SI=1; TP=RV; DT=S; AL=Taxab\
+leYN; FS=1)
+/Ctrl_225_24 (CN=TXA1 - CONS Tax Rate/Area\(wf\); CI=689; SI=1; TP=RV; DT=S; AL=TaxAre\
+a1; FS=10)
+/Ctrl_226_24 (CN=EXR1 - CONS Tax Expl Code\(wf\); CI=686; SI=1; TP=RV; DT=S; AL=TaxExp\
+lanationCode1; FS=2)
+/Ctrl_227_24 (CN=As If Ptr To Tax Expl Array; CI=811; SI=1; TP=RV; DT=N; AL=GenericLon\
+g; FS=11)
+/Ctrl_228_24 (CN=ATXA - CONS Taxable Amount\(wf\); CI=692; SI=1; TP=RV; DT=N; AL=Amoun\
+tTaxable; FS=15)
+/Ctrl_229_24 (CN=; CI=773; SI=1; TP=RV; DT=N; AL=AsIfTaxAuthority4; FS=8)
+/Ctrl_230_24 (CN=; CI=791; SI=1; TP=RV; DT=N; AL=AsIfAmount-SalesTaxTotal1; FS=15)
+/Ctrl_231_24 (CN=TAX3 - CONS Sales Tax Total 3 ; CI=710; SI=1; TP=RV; DT=N; AL=AmtSale\
+sTaxTotal3; FS=15)
+/Ctrl_232_24 (CN=TAX2 - CONS Sales Tax Total 2 ; CI=707; SI=1; TP=RV; DT=N; AL=AmtSale\
+sTaxTotal2; FS=15)
+/Ctrl_233_24 (CN=TAX4 - CONS Sales Tax Total 4\(; CI=713; SI=1; TP=RV; DT=N; AL=AmtSal\
+esTaxTotal4; FS=15)
+/Ctrl_234_24 (CN=TAXT - CONS Sales Tax Total \(w; CI=704; SI=1; TP=RV; DT=N; AL=AmtSal\
+esTaxTotal; FS=15)
+/Ctrl_235_24 (CN=TAX5 - CONS Sales Tax Total 5\(; CI=716; SI=1; TP=RV; DT=N; AL=AmtSal\
+esTaxTotal5; FS=15)
+/Ctrl_236_24 (CN=; CI=793; SI=1; TP=RV; DT=N; AL=AsIfAmount-SalesTaxTotal2; FS=15)
+/Ctrl_237_24 (CN=; CI=775; SI=1; TP=RV; DT=N; AL=AsIfTaxAuthority5; FS=8)
+/Ctrl_238_24 (CN=CRDC- CONS Base Currency Code\(; CI=650; SI=1; TP=RV; DT=S; AL=Curren\
+cyCodeTo; FS=3)
+/Ctrl_239_24 (CN=LITM - CONS 2nd Item Number\(wf; CI=745; SI=1; TP=RV; DT=S; AL=Identi\
+fier2ndItem; FS=25)
+/Ctrl_240_24 (CN=ATXN - CONS Non-Taxable Amount; CI=719; SI=1; TP=RV; DT=N; AL=AmountT\
+axExempt; FS=15)
+/Ctrl_241_24 (CN=; CI=777; SI=1; TP=RV; DT=S; AL=AsIfTaxCalculationMethod; FS=1)
+/Ctrl_242_24 (CN=; CI=795; SI=1; TP=RV; DT=N; AL=AsIfAmount-SalesTaxTotal3; FS=15)
+>> 
+endobj
+4 0 obj
+<< 
+/ProcSet [ /PDF /Text /ImageC ] 
+/Font << /F0 5 0 R >> 
+>> 
+endobj
+5 0 obj
+<< 
+/Type /Font 
+/BaseFont /ThorndaleAMT 
+/Subtype /Type0 
+/Encoding /Identity-H 
+/DescendantFonts 6 0 R 
+/ToUnicode 21 1 R 
+>> 
+endobj
+6 0 obj
+[ 
+23 0 R 
+]
+endobj
+15 0 obj
+<< 
+/Type /Page 
+/MediaBox [ 0 0 595.25 841.84998 ] 
+/Resources 4 0 R 
+/Contents 16 0 R 
+/Parent 2 0 R 
+>> 
+endobj
+16 0 obj
+<< /Filter /FlateDecode /Length 17 0 R >> 
+stream
+H‰*T0TÈT0Ð30TP(W04PðrLŒPÈ¢t,‚Aî
+\F&
+f–zF¦
+¹
+¦fæzæ¦PnŽB0HÎØ EÂÉr  ©­
+endstream
+endobj
+17 0 obj
+76 
+endobj
+18 0 obj
+<< 
+/Type /Page 
+/MediaBox [ 0 0 595.25 841.84998 ] 
+/Resources 4 0 R 
+/Contents 19 0 R 
+/Parent 2 0 R 
+>> 
+endobj
+19 0 obj
+<< /Filter /FlateDecode /Length 20 0 R >> 
+stream
+H‰,‰Í
+Â0„ïyŠ¹z©›ôWb<ˆˆÖ xV©Å‚ˆ­àë»–²ÌÌ7;oŒàÎîÚT·Ænoò¶}µEÕu—ºÒpÞœ¶¶42Ñ(7†4VÞ”¼ô¼w½ïŒd·†&bé¦– áïl¾„Ô_[p\C¤=¥³ F¦TÆðO1'
+%Q¬ˆH¥DQÄ}Èÿ/L˜3–2vf¥ßˆÜ‹ƒø	0 g22
+endstream
+endobj
+20 0 obj
+170 
+endobj
+21 1 obj
+<< /Filter /FlateDecode /Length 22 0 R >> 
+stream
+H‰\‘Íj…0…÷yŠYÞ»¸Ä¿ëíB„b+¸èµ} MF¨1Ä¸ðí3r$ðqæ“3¼jž­ðw;‹JK‹Ë¼ZÐã¨4‹J¸ƒÂ+¦Î0ïm·ÅáÔèafEüÃk‹³œåÜã™ñ7+Ñ*=Âé«jÏÀÛÕ˜œP;ˆ ,AâÀxõÒ™×nBàÁvi¤×•Û.ÞóWñ¹„$pL³ˆYâb:¶Ó#²"ò§„¢ö§d¨å?=>lý ¾;ÊS_EITî”ÜeY 4&z&Ê]Ó@¾d§<&"-?4ê’S—ìèJTU®	QMD¾[F?fÜ?á£†{BbµÖ‡öRÙóPï+3³ïÚ/û` !Š¹
+endstream
+endobj
+22 0 obj
+281 
+endobj
+23 0 obj
+<< 
+/Type /Font 
+/Subtype /CIDFontType2 
+/BaseFont /QJWOXP+ThorndaleAMT 
+/CIDSystemInfo 29 0 R 
+/FontDescriptor 26 0 R 
+/CIDToGIDMap 24 0 R 
+/DW 1000 
+/W [ 3 [ 250 ] 39 [ 722 ] 49 [ 722 ] 54 [ 556 ] 68 [ 444 ] 70 [ 444 500 444 ] 
+79 [ 278 ] 82 [ 500 ] 87 [ 278 ] ] 
+>> 
+endobj
+24 0 obj
+<< /Filter /FlateDecode /Length 25 0 R >> 
+stream
+H‰b` fê u,b†p–.@ìÆàÎà"ê&ƒàüp€  ]:£
+endstream
+endobj
+25 0 obj
+43 
+endobj
+26 0 obj
+<< 
+/Type /FontDescriptor 
+/Ascent 1005 
+/CapHeight 662 
+/Descent -307 
+/Flags 6 
+/FontBBox [ -166 -307 1009 1005 ] 
+/FontName /QJWOXP+ThorndaleAMT 
+/ItalicAngle 0 
+/StemV 80 
+/XHeight 457 
+/FontFile2 27 0 R 
+>> 
+endobj
+27 0 obj
+<< /Filter /FlateDecode /Length 28 0 R /Length1 27867 >> 
+stream
+H‰ìV{|L×þÖž™$’I2yÉÓ83“3ID"RI”"ÅM®Þ<ä!"!BQŠx·(m=B=.u¢ª­GQoªêU3ÉJ[­Æ³E’¹;“4õê½¿þî?÷kŸuÎ^k¯½ÏúÖYëìàˆÉ!¡Ïk!¡cªÖmâçùéî1™± …6ác
+…NÝì ÛÀÎ>»`p¾÷Ê¢k€óH®³Î—ý^ê õ€ç@y5'+=óô™ã¹€¾^xW8µ·}ÀåY\öÏÉ/,:‘²{ïnì‹ò†g¤C=~)Àå	ùéE¶C›Ü Ú—q{aXz~Ö>Û¸¼p->ªpèš=Ü×ø{€T02«àzu»ƒ@Î@’µ¥R(`£Xªã(Äú§l²™+)³‘)ä
+&“l:£ø>½û 
+Â#¦˜]ÛÂl5´+X^yÞ:Ì@Ö§;ï‘g4(ù“Ymž$>(“+llíšØ;(œU.®nîM=½¼}|ýš©›­Î_Ô½Ü¢e«Ö/‡†µiÞ.¢}‡Ž‘:w‰z¥ktLl·W»÷ˆëÙ+¾wŸ„¾‰¯õë?àoIÉøú?RRÓÒ1(#3+{pÎÜ¡yùÃ†Œ9ªpô˜±EãÆ¿1áÍ‰“&Oykê´·§Ï˜Y2köœ¹óJç/XøÏw-^òîÒeï½ÿÁò+W•­^óáÚuë7ükã¦6Kå[>ÞúÉ¶O·ïØ¹ë³ÏwïÙ»ï‹ý~yèð‘£ÇŽŸ8yê«Ó_Ÿùæì¹ó.~{É`¬¨4™!Wøq¤_ðl²AWL¤I´€,ì;ÂŒ²‰²ÙlÙJÙI¹RÞGþº<U>_=M}GðÔ‚VÐ­…0¡ƒ)tb„ÑB‘0IX-¬6j7MSV£×´Ò¤hÞÑ¬Ó2­ÖYëªõÐúh›kƒ´ÁÚîÚtm–ŽéT:‘‰JQ%º‹^¢Ÿè/¶Ûˆ‘bž8Yœ*Îg‹Å•âFq‹¸SüL< O‰ÅkúH}”¾«>MŸ¡ÏÖ­bUŠGÌb©Ë9¬à²/9†ÃTŽa®¬LNr'y_yŠ¼T=Y}[p<ÁŠ!Thß€¡PË1”=ƒa ¦´ƒÇà­U7`HÓfZ1‚!¡C©¸BÜÐˆá(ÇpcèÐˆ!KŸ[EUòGd±X® wè€ZÎöµŠZy­¬–ÕÕÖÔè«ï_)»Ò®>EMÓL‹ÌÕ¦iæ»æ;æ›Àe­y«y¾yžÉÅjÍºÊÜÊqf¥ÉdÚnú°bQÅª
+^Åk­3=+FT¤r©ueTeX¥¿1Ç8Ø˜bhL2ö7&{cŒŒáFQet4ÚmrÃfÃZÃ*Ã2ÃRÃBþ»)1L1Œ1è‚¡¹pÉr©Ú5Öu‰bµ¨öZ‹n|=?ŸX+`ŸÒþ™õc6ýê˜hÿûŒç®¢þÃQ†©˜FAX„ïñ6æbÞÇz¬Æ¯(Áoxqw0‹1ûQ[ø pwq«°	Gpa2PŠLCã(Ná8Nà$~@6Îà+œÆfFæã¾ÁYäà~ÆLäb†"y†Ž(ÀHŒÂhbÆâGa<Æá¼‰	ØŽ•˜„‰¼Š‹ñnb'¥sxˆG¨Fja¡ót.Ò·"b$#9)èÈHTI&²![²£&d¦Ët…®Òwt®Ó÷ôýH7è'ú™nÒ/TE·è6Ý¡»tçé>ýJ¿ÑzH¨š”äH5TKöäÀÿ <q…œÈ™c¤"&cr¦`6Ì–Ù±&äJnPNîäÁì™5%Oò"o¦dŽäC¾¸ŠïÈš‘šš3'æÌTÌ…¹27æÎ<H iIÇš2OæÅ¼™óÅ.ò'‘ô€k¸Îüpf\â{¢&\D%¶àcÌZ`>ÅÖ[ñ	b
+ÿóMÇ¶ïâ¶k°€uÁ<ö
+v°$ÅxŠ^Ü'Ùºzåú“÷Ú¸ºž"Þµ¹õÚÙ™}m¹õ×rÔ®åmÚ³´ÝàhÉ±ì´ÜáùÙ¥e«åÙ>ª²TY­ºËëÞgÙÆãuû„ÏÑ;y-¬ÆržÝ¯r]]	b]ÕíF?žÝ=xoRùèl^³x®×iFqÞÇ[1o-ÚuÎé>U ‚õnh‹”güíkmÜÐ‰Š¹÷‘Š™¼ŽVñuyÆó§£uË>¾YbCxMiyE€Ÿ€ ËyþõG$¯Þk8€P¦½ˆãUZÌ«ªœ¿9•û»ðîzA/è½ ÿsêÊOIõ´Žï\¿S'¾›…ò3Ù r&g~^«oyom‹Õ5±G÷Î";vhÑ.¼m›°Ð—[‡´jÙ"ø¥ À ½è¯Ój„æêf~¾>Þ^žM=ÜÝ\]TÎNŽJû&v¶6
+¹ŒZ—ä›+yG§IJ]ŒN%HÊÞUñ!\}5:!,$¹eƒ•¤–àÖSrOH*GTD²dü´IoI&ªnkøäx_!V’‹üÒÅ¥gJ‰Iêœoãx2Ÿ#ùD'i4¾ùÕƒñ+.]È”T	\¯ñ­×ôTÇÛ-—#¸šd~OL’Ô¿‹ÉÉÏsr?ûì}ÊÍÞT¢*WzGÇHp/‡ò²:³ª~î‹”ƒ¹#*Þ³®†‰ÜoKä&‘G<wùÉWÔM3E<'±™¹ºØÌ!<¢™iÄ´ª>¢¡D(ILr	ã]«Ó=¥Ã}“Êì£uÑYö
+”Û;pƒ/¸
+|‘‚rú7ãÕÓÆyÆß÷Î>›`ðmŒ}‡áÎ‡IÂa8PHH¸Û¡%â$&vJ–&dm·dcj„É U]•¤Ù‡”LÝ%»¬ÑF·}ðº-Ò"!­«Ôi¨’VÛOù0UÛÊŸ=ïÙVmê>¼Ÿ÷ùó¾Ïû{þpXva¡,áíw(d.  m$à0YCš:Fr ±?ÑÌ­¦§7ª¸­qö,—½UcZ5S6ñ¤¦&44%Þ©J§¦çXt4®XåÁÄá~N€ÁDûÂÉ^­¤½ë ˆà*Xñ¤HÒ	IŸNŠ)ØÛ8P9DÒþòÁä±8)—C ËkíŸ”Ò‚fƒß°Æ)Ú0Ûsþ¡ ÒhÔ‘¥Â2¶á¡/ÌëyÑËíéA}u*!jãG‡²Å•˜^+p)Åj–O%€ žºc©Áø‰h(A^SSÇô—Lë‘CAŠá¡YÄÊõ÷ÁþpR?¹Þíû¼¯$in…8¦Rabb¢Ï†Š'ñ“¢ñ´jj¯þƒzuˆáF5ŠæD9ƒƒÄhâ¡hTÊ¦L5“oÒX-‹)r¢É§9Vš]Ú_Õ¾¿?ô×kTkÿÎŒKÈ ßÞµ.Æ.°I2B£ö¹½;›ää‰÷f;”ZO,˜æìõSï»„ûÀGäH<•ŠÈb$O%æVÇÊ"+§îX,©3á¸¨·6ùÏ§-2ÕØxo‡$“rŠìo×ìÝ‡Hz"b2‘-²Ô(H\tÍ¦ë©sem¤û¢³ÀÐÄ™ sÐø‚Æ6’N„Xúú¡ÐŸÓ‹R'Ð =p¼@ZŽúÂ'{r	ÒZÉÑÖ“Â!’DšdjNEGa£w÷g÷":*ü©²'šôš¦¨hÆ×4ëîq²åjïù‚ªÞXÑ)N¶‰M=úDÔÒ½ðÆ4jæÆ\Âí­ý´@å8J 	·I	Õ¬+º#ÁaŠ•ÅYcÍØÚŸš£"ËÁÃëå;k*O†æ‚|“Q‰¬†›5ì$*£SŸàtq#(×}Åp*ž«µOÌÍûÁä'Ø°2<UÈÚs6™¼ö·úüÊf_„t– e-ž‰j…düj…tïZûE5Ð»Ý:#†Å$I¼&ÆCúPˆ
+Ås«‹ñ™q21rE4úÅ·º³×ºþÿ6‡6¸0Mnÿ<Ìí½ëÜþþQá|Ô(\‚±‰AˆF&äøCYûïÝ×ImÄIœ.1x–ž£=Kô/4n„
+ÁûëÆ½¨‰è‘ÚU4ë]¥¯!ú„[f]¯ågðÞ$ðõ=ÓÂ(£æ33ÌÐyŒ—9M9ÇXå_g%v˜B^Ü¢z±èÅ‹^<ãÅg¼8‹œˆ)ØÅvü=Í³ˆñ°Ë‰ÄFP “iÉpMM™Ú2îÕ}ûÍxÂ„/Òøðø@	¶zÊ<ž1¡öTæÙ¬î2w§{Ì{7ÙÿÀŒOšÏ™¯šé
+ÃEÃ¬öÑøcŸ£¯Â× Aè×ê$C°bQ»TgpÚŠ”A–êëê¹m2vëÇ"Ùk
+Rè×ØûÉ¹;+w—/%öÙlûøÂðÀ§xëÊï—†÷Ö½½òñÌ¯VÞ½ðvÒ¡ÁNïg{xÜ‡M8w»Âhóê_Œ·]/º­–3¼“§L€äÆä`“`bx$ºX¡¬Í5+ñ4c·X¡OÕHIY›u¶Ð*•I”‰–fÊ™^f¡ƒ9##Œ«ÞëÆrãó”e†7ÛU÷­ÂëvÙè—úåX,Ç‹åx¦oDþ!Ï.×}¢óùå:ÃC (°¬¤[ZÒ@Óœ­©i²Z™Ç±Úìe˜"NÆœÃém ¨^Â¹_ãíx'W³ôÛ¾øÊf€Çõì þ2M”>0z ‘Ï®..]TY|zúü¥BêoDØŒ®~d0‡P-Þ¡67øgýÔÿ³þ~º¡2RùR%]É9¸þJ‡ß_¹Í+‹Å]àßé§ÌþJä³JØFKªhðÀ—:P`oðø^u¹Ë7ÓÚ¬šìµ€m0X^Evç´Vú·Ê¼7NKc%YÇA&ï†yËrÖ8Ug—Ó`vÖ=âÅ ^ât?ÖiM‹ARÆ€æÙ³ìû±ÌûËiöO™÷bË:fd¡–Ì¼‚\-ü} µ¥cÃ†h³4›,¬îP&GçIæª=ß%š6µÝÍŸÏ§jaÌ¨VØÍnÅï÷êF1.&2Ö”ßv—š§¨›5¸F„õG`%¦DÞÍP¬2„DÕÁ? ›«©úmÁºbØ?ädH–—)r8‹K©"C~ñj§Xe
+¬¾õÂwOÿá›W‡ÿúËÝßjsÔå%o]y%¹ðí~5S¶µh¾ý–öÂ±ŽWFv{ýÄ÷#Ù‚+§®¿ñ/…O½1tã™ ‘Õôý.’Qú£z¸ü²ÑX`j¯8TAU(¾§-Qe1ù®˜
+Öê,sRù´“½"°ÈŒÞ”¥k´rÍd/(7N¨¨¬º,IQvl3Ø]®-›Tÿ¦ãÔx5>RÕjÉ‚õéÑ¸w$[Ýó|Çr:)XÈ|˜i„Lda4flM„Ñ7¹éòò¬.¾m*lsÃ8Õâö´)y;ò¨–à‚´4[ù&ž2×°mfÑ#¶aPŽ¡E‰úFöÖÃª |}Û¬&]DÐvqÀÛÇ1ë`=±å¥§žÿÚç?Äe=}ù–ªŠ½?¾uér³·jåwŸÙ=|¸>tùòÄðèÝ®Ÿ~e{msÍÁ¶Ñ—_^áÇ¤^¼sçx_Gº¤mõ#ú  [‚æÕãÈ‚ó,Ü†½Éÿ‚§H¤Wyš¹Y÷÷¸Ûà.~ÙOYG­mÍ#Ò7otó¥Ž‹´ê¡S¨ïRKqM)K1[Š—â…R<SŠÿÍwµÆFq]á{fvv×ëÇ>f×ÞYc6Ëb–Ê†­mH<BÆ]!¹”0Pj9$4‚”«J(Hæ¡Ò8˜¶Ä)â¨A”’DQ6@Q‹HJ Bm”
+ïö;wf×jºò7ç¾ï9ç~çÜëu£	íGÓâÑœ8øºËü!Ýø;'s'·ÃÑµ_oo‡£9,.ŸYQèËu¥C¡ó
+µ¿Y¬<«Ñ÷é9ºF*å²®Vr†Ø]avdÂæ&<WâÆM³ÿÊçÜøNu|R"2þ™›^ÙºUå·WNÆ™±nÞ„T]ãê¿öþþ‹ñ-«˜{ipïžÖ#b".Î›KKûÔBUÝ—íÕÂ® }Ü6Mí.TKA±ÝÅ‰âeÊØõ^Sx)_Å§Hï…côÖ™	ªIÐ˜27&hl±
+Kd»L–o~`_(Î}–Ë®S>ƒïÈ?p0G>3é—Ç•IcHTŒ©è­è¯8T¡ä‘j^:OÙç>êþ“[õ»ËÝJ@•7Õ¢vþ~'î©LÀ[ðœ@X#Ä++kã)¤æT*ÌyP½—©oÛüÊ»¤]°,žzˆôŠø×2^ðäÚž~ÜžþîÆÍx÷5–Ýž>1¹äß-Ó’Ó”­œgÿ§–/-¦ETÜ6#}Ñ¨é3½3H"øIP)QƒHµoD:–æ|OA]Ðÿ’¢‹Pw¾™oŽ*«‹å?¡ø5
+hÑ‚šihÊ`ŒÅ¨?F½1Z£•1Z£Ö‰=aÆ¨&FcbˆÑM9ƒø×ùY$:Æoò¸h:žL
+örí7¯‡†ù9æÙìQ|á‰a¼m“êOUµÅ·Ð§ø|1ßDŸZPBÍ…m……ª«üÖ&$Ý¬TæØ9VrRµ‚\}ìg_ì¿rå·¯~8´íÕÞý«|ïÑkü—2ðò•Þ|û_;hÎ†];7òß„Ï}p2(™?òíÍ(Ae/‰ÝE43Ÿvk!]Û0¡æ#Þ×éˆN{tú…Nëuú¡N:Ó)¬“K§†ÛrD¯NÊJ–èÔª“©Ó N‡tê—Õ€NB§›²ŠqÃ‡Ùž{:Ê‹ÿË£íöÃà}<>Ã3`dÅK‘/z¾çs£û™ùó«â©
+Ä§|«zêRõŒäÎôÇSNîœÉ%4ÁŒÅò)æ¡ˆF"¥˜
+äWCÅ…Euâhö†™çÉ«õ™"Pp4ûOSG³;„¦‚>Ó­û}ÁP]ähö®™‡‚ßWTdÕÖ¡àïVMC}B‰tç™Ñ¼NeŒAÂ Oj5¨Æ €A7eõƒ:dP¿A½­3h¥AK2²¦L{Y6µÊ¦ÙÃç÷Ë™Ö4|mÚ”áCË¿¹;Éø	ÉÉrrdª<šÂÏN‹k:_ÙŠá¢»uëÌ[w®ß|ü™¾ÍËº~©Ë\>u5sFýå"÷;þpð8•;ü^æSæY8{I™æÅbÏî@Ÿ—o´¤· Ð°˜ŠÃÛÝïúy„–È/nÀÛ¢Ü£x4¡4%OÕ8†#‘hº$ªm(ªy9J‡¢Ô¥ê(+	“’P88ÞŽëõƒSSÈöÁ†jŽºöÆSÇ¦ÚÁ6Z]çš0*Ž'\‡ê¸:uÂ¨>¨;#)oO¾8ƒ•µuux•¤"•AbÊ´çÖÌŸ·vÎzßÌÓ§“É–+žïêR¶Nõ?–É4uÏlz¶Â^eËßÆÿæþbÿô;¢Ô+øwø×-²|kÆ”[™CÏ{C^ªŒ—3P›™)æy—gd¼!Ù:ì§ìr7ðOLdâ¢Ú$6¹„ˆO¹ÄNwƒHÓÓb.úI´¯qu‹Æ¯@}äV¥A´ÏŽÍÀd ˜c·w Œ}Ø‚5ª¨=bµg‘èÐNˆ°Ö&R@Ê)×%`ê'¬:öK©eb¬Óç)“}	îÏk“sÖ ?zˆ×ôôÃ.—¢½ëìc!g©ï±­Ù›(wAÖÝ™†L³Dûl”ks vÊ¥(7Á7·Û6»yÆ—BÇÙè£Îðbß€SÆšqõcq–¶‹=,]sEµ´Û²½…írlbY§¯@z$,ý$zf‡é6áèPSb)dð°‹Ïô”èVûEÊUî°hfx>Í°ïPïê1OYöšÔóüÓ!¢Ü&×º~%jÔÛbú’îÅ×Ð^¯LFG­p)ÏŠRw\ÔÃ^Ö%Ý71÷$:Ä\œG+dÊuç%à œ¿ÌÍù
+ûâüÙGX#{Ã`¥¬u’5èPmŸA)µe`ìçè[Í OfKÀ~ÉcÌáùØ«‘÷°ÏBJóo8ì3j¯:çå@žÃ€äZ‰Zà*ð"°XüœÇ`mæ“‹yËÜaŽ2O˜#X‹c±Yrv0Ï%×ƒÀkJ§X„€„[ˆµ6›’×ÂÏ60gr<c¾ä$âI›$%ï•f[e—¦h’> ï™ŸÌ­a²EêØ&ýRêÈœ=ìJË¸€T—Ë31ÿéØíHŒÝ!ùˆ}\õ®~è™†>XÏ9Îî{¢Hi7$§RëpÂ>»—d>IÉ¹«E™ÌIðLUöÙ¯=%ÆÚùÄ9×*™S¬˜Lóšî9¹3ž¬¥²w‘SSí5QÏûË½Ò¢ÑÛÀó²™OB¢U={Ò8çøÈþÞY%J\Ü¨lo:¬ºŒQKÊ\¤®•çâÕªíØå>·0ÜU¢áª„NKD½
+=Ô(ßÃz¯gÏÈ¹°ï±¹ÎÊKœÃ²œÇ´ÅÃÚI¹Á:H~ñØíðíipy>>¸Ø—œ»µžìRwWöIuVœÏvoÊ¶j_fßTÙ~'K_ÇwVÜ48>µc&¥%¹Ü«œü.¹½¹ÄÊÝ>í¼h“þ¾*Ê´/E§=¿Ô5¶,Ä½R\’õ®ðqü»Eý‰Pð"Ks¿ÚjQÏŠY<Îå…qWÍ=ê®ì]u+çŒñ!ÏfÄ"5	ÿbŽZ:¯¹åØ¤Àþ&p7‘='Ûq>,¹M+€Îw±ö1º•}UŒýÏ˜²bc§öÿÈ”c,}2—4d/“ˆÉì%eÎIiû1v¹häØçlÍåüQåÄ°”ƒbÙu~Þ‰\|gX<ˆë‘q<2~GJûÞ8¹sŽäÝÑ–Û#áŒ)¹œßí{ú$Šÿ°_-`VUUxÿkî<€E 2Ì0¼ä12 ÏP*íÌ½çÎ¸/Ï½wÆ™ÌìA©eÚÃ23*zeefô° {˜If9Ø“²,S{XZQ™´ö:ûÜ{g.3*~òÕ÷Í=ß:{µ×^{­µ×cßëJZÔîÐÍêÚ{ì)]×i§ô_'‹Ëp½Ø§vñ¹o/ßÍgsHm3uqC”áÁòlgÙ¥ŽR·Jïé¡É¡„‚¾P¡ ûáÁ¾£@ºCV7h¨P´ªüIjdXlÆŠ€‡!¤ùn¬˜Ž[*v`yX‡v†–©	¥ËÔe¡ê’Ð(¹kpz«V>GUº®ö!ÀÇ¾€ü9=j(œ{±ô:Ìc´tß±'J{¸ÆDÕF††Y¦¿>¤{Ÿ¹€.ùßÜöÂ€öCèšƒÒ#>”=Ëá¾J©!7õC¯ÊÃ°£ÅPùè Â Â Â Â  ßÒvñk©jV¥ŠÔ©j¼ÚÌ7°IªDÏªÑ+£þÝÅàãPÃùËÇI•«{^¢Æ©ûbžÇ^ª*Õ3/S•ä”«(*õN¡!LŠÁ38ÔX:bpR#è¨ÁKÔÂ’2ƒ‡ÔØ’e/UcJ¶¼Œñ@N¹º¿äzƒW¨Y¡-¢„®5øPTð¦æ•ÞkðJ•*}ÎàÃ+Ë¡"#ïlpÛÜŒÛíD¬ˆ±­p2Õå¹míkU[WWgÕ·Em«)™HfºRŽµ<é¥’žq“‰j«>³„7myNÚñ:œHµÕÜžô;æìµÜ´e[ÏŽ8qÛÛa%£ý³ìDÄŠÛ]V«Ã²ÚÜtÆñX%7a…/có¸=ë¹éˆÖÜéêÜ.V}Só&§-³½ÞÂgX½xz}lq¼´Þ´¶zfmn¢éeÕ]5(Wµ1dº•£"Êb°ùÛf,¬’*¥º”'\íLµÔ†ZU'¥ê™Þ&æM0d˜?Å’,µœ¿<ÆõÛ–4Gµ¬ŠñcÈMË—Ã£Ãc‡h¢9›yV¯OˆV1åLœÄTWøõ®‘aþ8žÚÁ´$kt"ši‰	ñ€–ÕÅc«pk½ÚdÏŒhç{É•a¡hoùßÛUV¬J3Ë³ì4[Sd‹hÙÄôM²C–iÚ†4Ÿq<Ÿääô?³EôLç,­e}fò»xE?’þýþâ5hEƒpvÊ¾mü½ž9£²§ó¼^ó£Û?õ>a‘¬±8ÏÆÄÉ	cy†e¾‰ó;#²Â²“¿Fçkœ¥ú–´šè”ün—Èqe¥Ög<n’5únWU"?+y®3?#üùÊë´a9G|S½]âqÑ¦,T5ütÊSÍ³mÆÆÞ>­6zŸØªYçÝkúøÌËQ.—ÓÒø•F;Í?\e/¬g¯¬VËùÜ5¾ž©ú\ù½Vè+˜²™ß:ºW²ÇVðÓ$Ôf¦i9ôéûg]|¶½]¾R¬[R8<á})¹3Õdì´‚<rMEÍJÄé3Õ{tñŠlNí½Ž‚¼Êyzúy~_C­[ÌD{ÂH×'äGC\¨©Ü—šÝÚy¾Cø’¬G±AD÷ï±´ì˜á°EºÅàÍ<uš®sÝþ¨x5ž«y–‰V7m’/ÁÚ|Fï1Ç“ÊŠ"9&E÷ÀŸò	‹òþò5©>n”ï¯’ÕY~Yló\Z¬(–ÝÂ;ÇdßtÁ9ç=ïŸJïêW¿*¥Ä®©c/ä„-¡Ø‚•0ØW÷…ˆ¹ShÙE½¾*ÇíDiÞ§û'fªRFÖÅ¼”„|¥r3Ú*ßSÕ\É“N‰ŒrÎ…¹Ô·¼nIæMHÆfå$´í9‹ý=£=è`~îæoPA,/º²¹0rV‹ŠOWŸ‚Þá
+¦;"=è}þþ	Ó-}NÊS}o`ì´ô1}‰(¿w0Ÿß/Šc¾ÿ	äùyê˜sˆôÊÀ@^ñiûó-ÈH]ÈävpVv/?/ªTª¾añrÐ}{ëä[¤ãha´îõü½@ÍQóùÞ6Ÿo[xœÉß3ù±äiQkø=‡Ÿ©L›Æ<óÕl‹aGk@^ª†Fcy_ë
+«uÐ	t„ÚRýŠ30%5Ã6«;$]S_²¦N:l±eèNÎJ­Å‰ôç`®¦î½{²†µæÖ‘àw«xØÝ¬¼“ã¾ë$ºÍ\ÚD[»Ñ8šëýzÍf‰cmGV"%k4ðLgØ*§M¯qNŠ­rþNIÍOK˜"zûQ/¨RÅYm›l‹™Î‘>Ü´¤¬¬ö«Wa½sz­ë¿~ø·}ëš#fVTIÔ8Ls­;·"-Õ#ch¾¯<“ç'Ó³¶hÜ=s/´úøV÷¾§Í?ß«aY1U$iî(¿+¦æóÝß•u]«"&ºÂRSó«²Rñªzež#¾
+NÁ“î•ÎuRËÄ°#ýt«ÉMM;9¾tLÕÉWÀˆd©-nŸhÉH´Ø"×ÊÝ;‚{›+ón.>‹}a¸b­ïñÞ>IT(ÿ?Ð“ëþÝü$_vß¼ô-Ï¿)ù›È¶çG»øE ” „R”¡‚¡†JÇœ‚SqFâtœQ8£1ga,ÎÆ9‡ñ˜ 1	“q.ÎÃù˜‚©˜†0U˜jÔ`&j1³1s1ó± uXˆE¸‹±K±õ¸ËÑ€hÄJ¬Âj\Œ5X‹&¬ÃzlÀFlÂf4£[°—àRlÃ+ðJ¼
+—ár¼6ZF¢hC;\lÇÄGI¤p<¤‘AèÄ•èB7^ƒ«ðZ\×á¼oÀñ&ìÄ›ñ\‹ëp=ÞŠ·á¼7â&¼ïÄ»ðnÜŒ÷à½¸ïÃ­x?nÃ°Ä‡ðaìÆGðQ|Ç'ðIìÁ^ìÃ§ðiÜŽÏà³øîÀçq'¾€»ðEìÇ—ðe|_ÅÝø¾Ž8ˆoà|ßÂ·ñÜ‹ïâ>|÷ã¾ð<ˆâGx=8Œ‡ñcü?ÅÏðsüGðKü
+à×øÅoñ;<†ßãq<'ñüÂŸñþ‚¿âi<ƒ¿áïøŽâŸøþgñ<‡c¤Ÿ¨„BTJeTN4„†Ò0ª¤á4‚N¡Sé4I§Ó4ŠÎ¤Ñ4†Î¢±t6Cãh<M ‹&Ò$šLçÒyt>MQwÓTšFÐtª¢TM54“jiÍ¦94—æÑ|Z@u´Ñ…´˜–ÐRZFõt-§ZA´’VÑjº˜ÖÐZj¢u´ž6ÐFÚD›©™Zhý—óêlä*ÂfF»ª¾#zï¬bI¦ë|Êa’œŽ»3¹sêÓî“ôâÕ>ÝŸíôÞ; @è„Þ{'ôÞ{ï½CúÛ÷V#™ŸùaÍ¼Ý™ï›™7oÞú88 aŽ‡àD8	N†S€ApCú0 §Â*x0$ŒàB1¬ÁaX‡Ø„Óàt8Î„³àl8Î…óà|¸ .„‹àb¸.…Ëàr¸®„«àj¸®…ëàY37Á³á9p=<žÏ‡àðBxÜ/†—ÀKáeðrx¼^5s#Ü¯†×Àkáuðzx¼Þo†·À[ámðvx¼Þïž¹Þï…÷ÍÜ ï‡ÀáCðaøÜ…ÁÇáðIø|>Ÿ…ÏÁçáðEø|¾_…¯Á×áðMø|¾ß¹uæ6ø|~ ?„Áá'ðSøü~¿„_Á¯á7ð[øüþ „?ÁŸá/ðWøün[á6øüþÿ†ÿÀqï€€ˆ´ÐÆ,æ0,b	gqnÇ;âx'¼3‰lâ>Ÿ€OÄ»à]ñnxw¼Þï…÷Æûà}ñ~x| >„Æ‡ÌÜ‚Å‡áÃñøH|>ƒÅÇá–±‚U¬á<ÖñIød|
+>[¸q'¶ñ(Ü…OÃ%|:Çà±¸;¸Ÿ{qîÇe|&‡ð ®àñxžˆ'áÉx
+2ì¢ƒ.rìa(ðT\E‡è£ÄÂ CŒ0Æ5<Œë¸›xžŽgà™xžçà¹xžà…x^Œ—à¥x^ŽWà•x^×ÌÜŒ×âuV8b·ùºã±aîP,#îv½‚»<Eß·]éy,ÈŽxàp?Ê³¡ÒBæ»Em
+¿ïñüˆÜ÷x/*h-ýA”caÄ®fF^ZŽ™=Ø¸o+!]+ôX8Èlò@¢ô9F‡¥Î3=™žXãŠu+äkÜ·xšñ…Ï–'ý|È‡Bk‡¡ÅÅÌËöÎ­J…‡‘>°èöÌæb7`Î*’œò]¥êPKéS_‘…ŽŽœxXˆ}W•Å‘·ú[ã·gžçtž0b—½ÒLÍ	Ïåù–+x ÊZ­@Õ>·èpW¨²ÛÌ‰#nï6f±Y~y¬ÙÌX0`‘™È{_Ï³‰v·˜ÆvÆØÜxrãÉ§<9y
+c#Œ˜²dãkt[SiLå”©$SiLccÓxÊ4&S—õû<°]žj¤KsIçy*…lÈ¤ìnìy<Jú4I4((¡êâ®Þ‰wóŽmè’ç£€¹|È‚UKG³å|ÕõI§A«mwtWä„ß¾ˆ6òI£…‡ù¤#µY)mH½Àîgc_ÌÍí˜/ªX"Á<Wôzù0V‡#	4;
+¤;Q®ï©“RžŸWàQRw¯(·§:>9 %¥USÄ*Gž VÊ•:0URÓ¦ãæwåa¿`Î¶V=ÙóT
+Y•^¢Ú=Oª½.²‘"^7G(Á«ÌÕgû±Ú|>”úl£•9ÜÜóÄHÕÃ¤Óš³[z‹ì–Ù·ŽÐiƒT}ã»**›]œ2	êìxaŠ®WzŒhM?´]±&\žõä&÷û<¿A}ö¤§ŽJ’o¦RÇ­çÅ­Wzz^Þ´ŒâMw£±m2Íº,äd²(ªid¬§^kÒ‚ÅöD·[ºMòmêÊ¶©Ç’~^\šêÜ%²Y26cÓ™Ø˜í¯”çìŽ1Y6&ËSŒËúMÎMö'EaòÊ2{0dN }«¨ñ™WfÌIÎF&9ÚÙôd—±ßgA<ôX©©¦ðªå0åf£[ÉöŒØg†F¬±©…[r•ûjda; öAsj7´°ödà«ÁžüêÓ‘Æ^$FÞFQñ…±¾‚¢šþc}VßãUVY˜×+(©4PaÒÅ¸w¦ò¨Rr}Œ½í–.€Í´È¶L’Yf¤½hBuŒX4‰9Fì4Â¯ÉT;j‘m§8<Åi#žÏ/]p/ÐFøéÊ˜øZÌv¦÷cVnÙ½Æ!0b¯ñŒØg†fVíKw7Ž·y¿¾}M”¢©…½ß DZXËIsXqò;»¼%–xK,+†oS‹Â
+5Wa“Ô´…êyÖ¢<7W©Žµù2iÒ&ok¤Í“F(óÒš¤-ŒµúiÄQs”k„W&”2¡”	¥B(B©P¤Š¯Bx•I–„\!ä
+!W	¹JÈUB®RªÄQ%Ž*qT‰£JUâ¨G8jÄQ#ŽqLêR#ŽqÔˆ£6©3yÔÉ£Nuò¨“Gƒ¢jP,Š¥A±4¹AÈBnrƒ›„Ü¤|›ÄÑ$Ž&q4‰£IMâhG“8ˆc8ˆc8ˆc8&'`a’ÇeÌ¡tÒÊ¤QïÎUI«‘6OZ´iMÒˆ£L“˜ç'¹5õ­6ÚV$}ÎŽ/*½*´¼Ñ€i5Ï|}QVj« õ	®çÚQú~I¦Z©£¾Ñƒô}iyÊ¸Ðò¾1:B(ó-\–æÊìà³v15­²)OfE=R÷S·ŠÒ2	‘u´úzajÊ».ƒccØÃ‘M™aÀ½iíý!Ãý,Î¦QàžÀEõ·'¥¥©¶§ãuQâ%>.§+Æéou5ÉhÿL7I¦Ÿ$c¹Ü‹X6ÅRÿÿ¨”’—‘N)³VuJžIÉa]d¥Éƒ´Ã$™²¥F*§”G*Gý©¥%“—¦k»ýÿÂ+ÉéÝ‰§wGÒîØ:¬r.­J9£8Ê¶~_Î¶ÌGF–Y\œú<r&zaqrE8¤fÛ©77Òn›«škQhO|8©Å]Sÿc»ê~£¨¢øÌÎv·û9µíök[¶°¥4\”v?ÚŽ™ÄaK¡e‰”~¤]I€mwÚYºÝ]÷£-‚¶
+«µ‚)E^xRQ_:‰Ö…Ñ A£O>&jHDüðÜ¹3ÓÁ°É½çwî=÷œsoïôžßŒ!ÂþMë:÷¾ƒâ0ø‘6±y 
+³e”Q„xYÕ\“j®ƒ$×$)+Õr I¤}POÁ4xÀ”<á8`wb;£ÆgQ0I§ èLN9gRÅ|"™SÐ9Ÿ5Ú¤{MÇ³™|!—ÉJ"ÓŸža †Ïƒì'£îçÙOFÎa£¯œÑ×ˆa#yÃ¹âs+àsS©9·15NQ3FâÉ¹©çV$Ò1nð¾`À1>i¨táBÎä-ã¤H^ bœ'¤"×ùÂ‚^wÇˆáIE(ÿýð£ßë*¦PNNer¸ô'Üg™Ë‹	®\q‰%NÁ÷cSI!Î`?‘ð¦¦µÂÓœJæâ–¬˜‡¯G‰ÑÝPßR@êÛÒÝ„³5à@@áDÌS$§RáœwL'ç5ìÌCFiU±g03£¢‰‰bNå»¨“óñ”˜ž+0u]°‘Múg×Xe!«ÃÉ‚}.üHM×¡uO?‘qQå)
+% 8³‰ñ	ìƒ2J•ðrår™ÌÁ¬
+*fíŠ$TO˜”4™)H6Õ,‘vêh2/Ú¦1ñLLf-ÀK{‚–®Þpˆˆp—Lç`ãVà¦ñ™b–Èœª'ÒD¦¦-øâ¤De!ÔZÉôüdÖ0"SöL˜ÌÏ%!ùø”';¯+L¾˜¶LÃ?¬”hÆ]E>Oˆæ©Tq²BXÉø\Ç\1¯ž¶è6`¸3•#ûàµ…]*èÔAP„4Ð«NÝèÑ@X!ÍO@[ÖB„5ÏAÍO@	h6ÍOXK5¤µ4:Ð¢´|‚:Ð¦BZˆ.=¨æ9 ¥Ò5Ï!-Ÿ¾/ÍsH[Ö7¨ûQFàUœLe¦f­p°¬ ZjšÈ\AÕpƒð—Ä½51«H'þät>ª|sº¦||:;%×=¤Ê° ÿz§®¾ù§Ÿ¡;uºÎ+œªªåNn<¶˜]\^d~øÆç ›ËB—Ê@7›®óÍÞ™5Í¦—rM…b­§yætÓIèD©ÖÛš¤YÉ'ížfXéºôPb|R§(ˆYqY\oˆ·ÅJAr×q×%Zé5‰®Ò'*D©ô|Sc¾î…¾Æ­'¡™L‚\UÍÉëfÄ^¥…/Û¶so[ÿ„Aá—šîÐWôÇWXô>´ }M¸èÃV×îÃD6ø”U¶»nXõ›Ë¥Œ~ÒÚN¤£ŠÛ`î]}‡AØ¨ö~½ûë’	]:Ç ·/0è­ÊÄ§¶·s·ß£±{ùÉNîÐeúòE
+½{¦™¿¯®`q_è„Uÿ> Ðƒ’	}qù¾¹I¡›€…ëºðtkÿÐ÷`àR£ï÷’âúZ¹©§òY¹ÆÃ•×i%]ëõÍÜz‰FßG:·~í»[ºµjBçW)tÚ«z}ÕŒVÏRŠ“e¿²áî+míÜËKziÉŒ^„&,ísK%3Zƒ°+%
+½øÕR%:{Æ‚Î JÝ½œPÚ8o§¡Ûã	{ªC6èq<¶.¥ÓÃìöPOyÚw¸;v°;‘{b·ùÝm~v‹ÏÝêcÙª'œ6»Ãi±V:s…“¢MN“ð	”ÛÍ	TuG16t›¡Y–f–}†=Æšm,ëcLV/Ýâj°6¹<Uõ®js­k¿“ïàÛù6~ßÊoá½|ïá«y–·ñžá)~(HËÕQ*:‘kh#9ˆ¢Lë°@QÙ:td¢LÓoÆ`T6­lÐÔ¨l^Ù0¨î{îÈÄÝˆ§KÞÏ)š¦äèñÒùXÙDEdzEöL`!ž[W6ª¨Ñ‰²‰ŽÄb1¹':4­b¨ENDÁl¹%&0Xk‰QQùéÃ²×AûÍÍ
+ÿ,w˜ûýýR\îðï5ŽÓuaøåuD!T0¨X@+×à‰ãò×þ½tß„7†Brƒ¼ŽLpR…B±hpKú²ŸãÐp$*WC:"7ùA¹	J7(Nä¿ ˆüÓy
+endstream
+endobj
+28 0 obj
+13028 
+endobj
+29 0 obj
+<< 
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0 
+>> 
+endobj
+xref
+0 30 
+0000000007 65535 f 
+0000000016 00000 n 
+0000000069 00000 n 
+0000000141 00000 n 
+0000079652 00000 n 
+0000079731 00000 n 
+0000079875 00000 n 
+0000000008 00001 f 
+0000000009 00001 f 
+0000000010 00001 f 
+0000000011 00001 f 
+0000000012 00001 f 
+0000000013 00001 f 
+0000000014 00001 f 
+0000000000 00001 f 
+0000079903 00000 n 
+0000080027 00000 n 
+0000080181 00000 n 
+0000080201 00000 n 
+0000080325 00000 n 
+0000080573 00000 n 
+0000080594 00001 n 
+0000080953 00000 n 
+0000080974 00000 n 
+0000081260 00000 n 
+0000081381 00000 n 
+0000081401 00000 n 
+0000081630 00000 n 
+0000094751 00000 n 
+0000094774 00000 n 
+trailer
+<<
+/Size 30
+/Info 3 0 R 
+/Root 1 0 R 
+/ID[<8970e7faff9b57e1f4fe97cf891f2a0f><498be90a51b37859056681a100f0de73>]
+>>
+startxref
+94852
+%%EOF

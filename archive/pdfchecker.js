@@ -6,10 +6,9 @@
 // Synopsis
 // --------
 //
-// Called periodically by pdfmailer.js
-// It checks the Jde Job Control Audit table looking for recently completed UBE reports.
-// New PDF files are cross checked against JDE email configuration and and if email delivery is required then the report
-// is sent to all configured recipients
+// Check the F559811 Jde Pdf Process Queue for records at status ready for emailing
+// For each entry fetch the email configuration and send an email with the report attached.
+// Shuffle the entry to the next status or 999 Pdf Processing complete
 
 
 var oracledb = require( 'oracledb' ),
@@ -22,7 +21,8 @@ var oracledb = require( 'oracledb' ),
   dirRemoteJdePdf = process.env.DIR_JDEPDF,
   dirLocalJdePdf = process.env.DIR_SHAREDDATA,
   numRows = 1,
-  begin = null;
+  begin = null,
+  hostname = process.env.HOSTNAME;
 
 
 // Functions -
@@ -41,8 +41,7 @@ var oracledb = require( 'oracledb' ),
 
 // Query the JDE Job Control Master file to fetch all PDF files generated since last audit entry
 // Only select PDF jobs that are registered for emailing
-module.exports.queryJdeJobControl = function( 
-  dbCn, chkDate, chkTime, pollInterval, hostname, lastPdf, performPolledProcess ) {
+module.exports.queryJdePdfProcessQueue = function( dbCn, status, nextStatus, scheduleNextPolledProcess ) {
 
   var auditTimestamp,
   query,
@@ -52,42 +51,17 @@ module.exports.queryJdeJobControl = function(
   jdeDateToday,
   wkAdt;
 
+  // Default Email action status is 200, default next status is 999 Complete
+  if ( typeof( status ) === 'undefined' ) status = '100';
+  if ( typeof( nextStatus ) === 'undefined' ) status = '999';
+
   begin = new Date();
-  log.debug( 'Begin Checking : ' + begin + ' - Looking for new Jde Pdf files since last run' );
+  log.debug( 'Begin Checking : ' + begin + ' - Check Process Queue for entries that need to be emailed' );
 
-  // Checking of JDE Database Job Control is driven by passed Date and Time.
-  // On startup where process has not run for a while this date and time could be from several days ago.
-  // On subsequent calls (here) this date and time should be from a few seconds ago
-  // i.e. first time could be looking for jobs going back several days that require processing but once
-  // running it should be looking back and checking for the polling interval only
 
-  // Get todays date from System in JDE Julian format
-  jdeDateToday = audit.getJdeJulianDate();
-
-  // If Passed check from Date is not today or we have just crossed midnight threshold the query should not use time 
-  // as part of selection.
-
-  if ( jdeDateToday == chkDate ) {
-       
-        query = "SELECT jcfndfuf2, jcactdate, jcacttime, jcprocessid FROM testdta.F556110 ";
-        query += " WHERE jcjobsts = 'D' AND jcfuno = 'UBE' AND jcactdate >= ";
-        query += chkDate + ' AND jcacttime >= ' + chkTime;
-        query += " AND RTRIM( SUBSTR(jcfndfuf2, 0, (INSTR(jcfndfuf2, '_') - 1)), ' ') in ( SELECT RTRIM(crpgm, ' ') FROM testdta.F559890 WHERE crcfgsid = 'PDFMAILER') ";
-        query += " ORDER BY jcactdate, jcacttime";
+    query = "SELECT jpfndfuf2, jpblkk FROM testdta.F559811 WHERE jpyexpst = '100' "; 
+    query += " ORDER BY jpupmj, jpupmt";
     	
-	log.debug( 'Check Date matches Todays Date : ' + jdeDateToday + ' see: ' + chkDate);
-
-    } else { 
-       
-        query = "SELECT jcfndfuf2, jcactdate, jcacttime, jcprocessid FROM testdta.F556110 ";
-        query += " WHERE jcjobsts = 'D' AND jcfuno = 'UBE' AND jcactdate >= ";
-        query += chkDate;
-        query += " AND RTRIM( SUBSTR(jcfndfuf2, 0, (INSTR(jcfndfuf2, '_') - 1)), ' ') in ( SELECT RTRIM(crpgm, ' ') FROM testdta.F559890 WHERE crcfgsid = 'PDFMAILER') ";
-        query += " ORDER BY jcactdate, jcacttime";
-    	
-	log.debug( 'Check Date is not today : ' + jdeDateToday + ' see: ' + chkDate);
-    }
-
     log.debug(query);
 
     dbCn.execute( query, [], { resultSet: true }, function( err, rs ) {
@@ -96,65 +70,59 @@ module.exports.queryJdeJobControl = function(
           return;
         }
 
-        processResultsFromF556110( 
-          dbCn, rs.resultSet, numRows, begin, pollInterval, hostname, lastPdf, chkDate, chkTime, performPolledProcess );
+        processResultsFromF559811( dbCn, rs.resultSet, numRows, begin, scheduleNextPolledProcess );
 
     }); 
 }
 
 
-// Process results of query on JDE Job Control file 
-function processResultsFromF556110( 
-  dbCn, rsF556110, numRows, begin, pollInterval, hostname, lastPdf, chkDate, chkTime, performPolledProcess ) {
+// Process results of query on JDE PDF Process Queue 
+function processResultsFromF559811( dbCn, rsF559811, numRows, begin, scheduleNextPolledProcess ) {
 
-  var jobControlRecord,
+  var queueRecord,
   finish;
 
-  rsF556110.getRows( numRows, function( err, rows ) {
+  rsF559811.getRows( numRows, function( err, rows ) {
     if ( err ) { 
-      oracleResultsetClose( dbCn, rsF556110 );
-      log.debug("rsF556110 Error");
-      return;
+      oracleResultsetClose( dbCn, rsF559811 );
+      log.debug("rsF559811 Error");
+      return scheduleNextPolledProcess( err );;
 	
     } else if ( rows.length == 0 ) {
-      oracleResultsetClose( dbCn, rsF556110 );
+      oracleResultsetClose( dbCn, rsF559811 );
       finish = new Date();
       log.verbose( 'End Check: ' + finish  + ' took: ' + ( finish - begin ) + ' milliseconds, Last Pdf: ' + lastPdf );
  
-      // No more Job control records to process in this run - this run is done - so schedule next run
-      performPolledProcess();
+      // No more records to process in this run - this run is done - so schedule next run
+      return scheduleNextPolledProcess( null );;
 
     } else if ( rows.length > 0 ) {
 
-      jobControlRecord = rows[ 0 ];
-      log.debug( jobControlRecord );
+      queueRecord = rows[ 0 ];
+      log.debug( queueRecord );
 
       // Process PDF entry
-      processPdfEntry( dbCn, rsF556110, begin, jobControlRecord, pollInterval, hostname, lastPdf, chkDate, chkTime, performPolledProcess );            
+      processPdfEntry( dbCn, rsF559811, begin, queueRecord, scheduleNextPolledProcess );            
 
     }
   }); 
 }
-
+ 
 // Called to handle processing of first and subsequent 'new' PDF Entries detected in JDE Output Queue  
-function processPdfEntry( dbCn, rsF556110, begin, jobControlRecord, pollInterval, hostname, lastPdf, chkDate, chkTime, performPolledProcess ) {
+function processPdfEntry( dbCn, rsF559811, begin, queueRecord, scheduleNextPolledProcess ) {
 
   var cb = null,
     currentPdf;
 
-  currentPdf = jobControlRecord[ 0 ];
-  log.debug('Last PDF: ' + lastPdf + ' currentPdf: ' + currentPdf );
+  currentPdf = queueRecord[ 0 ];
 
-  // If Last Pdf is same as current Pdf then nothing changed since last check
-  if ( lastPdf !== currentPdf ) {
+  // Process second and subsequent records.
+  cb = function() { processLockedPdfFile( dbCn, queueRecord, hostname ); }
+  lock.gainExclusivity( dbCn, queueRecord, cb );		
 
-    // Process second and subsequent records.
-    cb = function() { processLockedPdfFile( dbCn, jobControlRecord, hostname ); }
-    lock.gainExclusivity( dbCn, jobControlRecord, hostname, cb );		
-  }
 
   // Process subsequent PDF entries if any - Read next Job Control record
-  processResultsFromF556110( dbCn, rsF556110, numRows, begin, pollInterval, hostname, lastPdf, chkDate, chkTime, performPolledProcess );
+  processResultsFromF559811( dbCn, rsF559811, numRows, begin, scheduleNextPolledProcess );
 
 }
 
@@ -188,7 +156,8 @@ function processLockedPdfFile( dbCn, record, hostname ) {
             lock.removeLock( dbCn, record, hostname );
 
         } else {
-             log.verbose( 'JDE PDF ' + record[0] + ' - Processing Started' );
+
+             log.warn( 'JDE PDF ' + record[0] + ' - Processing Started' );
 
              // This PDF file has not yet been processed and we have the lock so process it now.
              // Note: Lock will be removed if all process steps complete or if there is an error

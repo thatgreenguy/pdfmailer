@@ -112,6 +112,9 @@ function performPolledProcess() {
 function scheduleNextPolledProcess() {
 
   log.debug( 'Will Check again in : ' + pollInterval + ' milliseconds, using Date: ' + checkDate + ' time: ' + checkTime );
+
+
+  // Stop polling after 1 run for moment
   //setTimeout( performPolledProcess, pollInterval );
 
 }

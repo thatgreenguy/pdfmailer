@@ -1,3 +1,7 @@
+//          contentType: "multipart/mixed"
+
+
+
 var nodemailer = require('nodemailer');
 
 // create re-usable transporter object using SMTP transport
@@ -12,7 +16,11 @@ var mailOptions = {
 	to: "paul.green@dlink.com",
 	subject: "Hi - this is a test email from Node on Centos",
 	text: "Hello - Testing Testing 1 2 3 ...",
-	html: "<P>Hello - Testing Testing 1 2 3 ..."
+	html: "<P>Hello - Testing Testing 1 2 3 ...",
+        attachments: [{
+          filename: "R5542565_FRZS5M10A_182678_PDF.pdf",
+          filePath: "/src/R5542565_FRZS5M10A_182678_PDF"
+        }]
 }
 
 // Send Email
