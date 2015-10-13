@@ -1,4 +1,5 @@
 //          contentType: "multipart/mixed"
+//          filePath: "/src/R5542565_FRZS5M10A_182678_PDF"
 
 
 
@@ -19,7 +20,7 @@ var mailOptions = {
 	html: "<P>Hello - Testing Testing 1 2 3 ...",
         attachments: [{
           filename: "R5542565_FRZS5M10A_182678_PDF.pdf",
-          filePath: "/src/R5542565_FRZS5M10A_182678_PDF"
+          filePath: "/home/pdfdata/R5542565_FRZS5M10A_182678_PDF"
         }]
 }
 
